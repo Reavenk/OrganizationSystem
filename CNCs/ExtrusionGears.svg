@@ -2,17 +2,31 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="Extruder.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ExtrusionGears.svg">
+  <metadata
+     id="metadata278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -34,39 +48,18 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="435.57778"
-     inkscape:cy="172.31308"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="277.7598"
+     inkscape:cy="895.71802"
      inkscape:window-width="2560"
      inkscape:window-height="1017"
-     inkscape:window-x="2552"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <sodipodi:guide
-       position="41.279875,274.1909"
-       orientation="0,-1"
-       id="guide2806" />
-    <sodipodi:guide
-       position="34.848466,286.23026"
-       orientation="0,-1"
-       id="guide2912" />
-    <sodipodi:guide
-       position="69.571547,263.17373"
-       orientation="1,0"
-       id="guide3418" />
-    <sodipodi:guide
-       position="99.471175,273.42818"
-       orientation="0,-1"
-       id="guide28956" />
-    <sodipodi:guide
-       position="100.5334,272.52875"
-       orientation="0,-1"
-       id="guide28958" />
-  </sodipodi:namedview>
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
@@ -75,1044 +68,2486 @@
      id="layer1">
     <path
        id="path2938-4-8"
-       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-       d="M 396.25 130.30469 A 20.7874 10.3937 0 0 0 375.46289 140.69727 A 20.7874 10.3937 0 0 0 375.49609 141.16602 L 374.64844 141.16211 C 374.72535 141.2713 376.22266 143.48438 376.22266 143.48438 L 376.22656 143.48438 A 20.7874 10.3937 0 0 0 396.25 151.0918 A 20.7874 10.3937 0 0 0 416.27344 143.48438 L 416.27734 143.48438 L 417.71289 141.35742 L 416.99219 141.35352 A 20.7874 10.3937 0 0 0 417.03711 140.69727 A 20.7874 10.3937 0 0 0 396.25 130.30469 z "
-       transform="scale(0.26458333)" />
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 99.020286,34.476449 a 5.4999995,2.7499998 0 0 0 -5.499901,2.749703 5.4999995,2.7499998 0 0 0 0.0088,0.124024 l -0.224274,-10e-4 c 0.02035,0.02889 0.416513,0.614434 0.416513,0.614434 h 0.001 a 5.4999995,2.7499998 0 0 0 5.297852,2.012797 5.4999995,2.7499998 0 0 0 5.297864,-2.012797 h 0.001 l 0.37982,-0.562758 -0.19068,-10e-4 a 5.4999995,2.7499998 0 0 0 0.0119,-0.173633 5.4999995,2.7499998 0 0 0 -5.499924,-2.749703 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect2419-3"
-       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.377953;stop-color:#000000"
-       d="m 373.57227,109.17578 v 28.3086 1.32421 0 c 1.34114,5.70875 11.18173,10.01255 22.67773,10.01563 11.496,-0.003 21.33659,-4.30688 22.67773,-10.01563 v 0 -29.63281 z"
-       transform="scale(0.26458333)"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="m 93.020159,28.886091 v 7.489984 0.350364 0 c 0.354843,1.51044 2.958495,2.649154 6.000127,2.649969 3.041644,-7.94e-4 5.645294,-1.139529 6.000144,-2.649969 v 0 -7.840348 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#b4b4b4;stroke:none;stroke-width:0.1;stop-color:#000000;fill-opacity:1"
        id="rect3078"
        width="11.999935"
        height="7.8401809"
        x="61.946609"
-       y="28.886091" />
+       y="28.886091"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.0999999;stop-color:#000000;fill-opacity:1"
        id="rect3442"
        width="3.2499983"
        height="3.7982094"
        x="66.321548"
-       y="18.635975" />
+       y="18.635975"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="circle3090"
        style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stop-color:#000000"
        d="M 256.80664 40.853516 A 22.676756 22.676756 0 0 0 234.12891 63.53125 A 22.676756 22.676756 0 0 0 256.80664 86.207031 A 22.676756 22.676756 0 0 0 279.48242 63.53125 A 22.676756 22.676756 0 0 0 256.80664 40.853516 z M 256.80664 53.892578 A 9.6377951 9.6377951 0 0 1 266.44336 63.53125 A 9.6377951 9.6377951 0 0 1 256.80664 73.167969 A 9.6377951 9.6377951 0 0 1 247.16797 63.53125 A 9.6377951 9.6377951 0 0 1 256.80664 53.892578 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="circle3092"
        style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.377953;stop-color:#000000"
        d="M 256.80664 42.744141 A 20.7874 20.7874 0 0 0 236.01758 63.53125 A 20.7874 20.7874 0 0 0 256.80664 84.318359 A 20.7874 20.7874 0 0 0 277.59375 63.53125 A 20.7874 20.7874 0 0 0 256.80664 42.744141 z M 256.80664 50.8125 A 12.71811 12.71811 0 0 1 269.52344 63.53125 A 12.71811 12.71811 0 0 1 256.80664 76.248047 A 12.71811 12.71811 0 0 1 244.08789 63.53125 A 12.71811 12.71811 0 0 1 256.80664 50.8125 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect846"
        width="12"
        height="13.06"
        x="19.613209"
-       y="24.166273" />
+       y="24.166273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.0999999;stop-color:#000000"
        id="rect846-6"
        width="12"
        height="1.64"
        x="19.613209"
-       y="24.166273" />
+       y="24.166273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.0999996;stop-color:#000000"
        id="rect846-6-1"
        width="11"
        height="1"
        x="20.113209"
-       y="24.166273" />
+       y="24.166273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect846-6-2"
        width="12"
        height="8.3400002"
        x="19.613209"
-       y="28.886274" />
+       y="28.886274"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect1016"
        width="10.4"
        height="3.0800011"
        x="20.413208"
-       y="25.806273" />
+       y="25.806273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.0999997;stop-color:#000000"
        id="path1123"
        cx="32.676449"
        cy="27.346273"
        r="1.8632429"
-       inkscape:transform-center-x="-1.8632412" />
+       inkscape:transform-center-x="-1.8632412"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.0999997;stop-color:#000000"
        id="path1123-9"
        cx="18.549965"
        cy="27.346273"
        r="1.8632429"
-       inkscape:transform-center-x="-1.8632412" />
+       inkscape:transform-center-x="-1.8632412"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0999999;stop-color:#000000"
        d="m 31.613216,25.166273 h -12"
-       id="path1282" />
+       id="path1282"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect1386"
        width="0.5"
        height="0.5"
        x="19.613209"
-       y="36.726273" />
+       y="36.726273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect1386-6"
        width="0.5"
        height="0.5"
        x="31.113209"
-       y="36.726273" />
+       y="36.726273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 19.613209,36.726272 H 31.613207"
-       id="path1523" />
+       id="path1523"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.0999996;stop-color:#000000"
        id="path1547"
        cx="25.613209"
        cy="33.826275"
        rx="2.1243446"
-       ry="2.5500002" />
+       ry="2.5500002"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="m 25.613209,33.826273 v 3.4"
-       id="path1662" />
+       id="path1662"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="circle1744"
        cx="25.613209"
        cy="33.826275"
-       r="1.625" />
+       r="1.625"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0999999;stop-color:#000000"
        d="m 52.779884,25.166273 h -12"
-       id="path1760" />
+       id="path1760"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 40.779877,36.726272 H 52.779875"
-       id="path1766" />
+       id="path1766"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.0999996;stop-color:#000000"
        id="ellipse1768"
        cx="46.779877"
        cy="33.826275"
        rx="2.1243446"
-       ry="2.5500002" />
+       ry="2.5500002"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="m 46.779877,33.826273 v 3.4"
-       id="path1770" />
+       id="path1770"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="circle1772"
        cx="46.779877"
        cy="33.826275"
-       r="1.625" />
+       r="1.625"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 41.279876,37.226271 40.779877,36.726272 H 52.779876 L 52.27988,37.226271 Z"
-       id="path1807" />
+       id="path1807"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="m 40.779885,25.166273 0.499991,-1 h 10.999999 l 0.500001,1 z"
-       id="path1809" />
+       id="path1809"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect1993"
        style="fill:none;stroke:#000000;stroke-width:0.377953;stop-color:#000000"
        d="M 154.12891 97.535156 L 154.12891 97.640625 A 7.0421777 7.0421777 0 0 1 157.15234 103.35547 A 7.0421777 7.0421777 0 0 1 154.12891 109.13086 L 154.12891 109.17578 L 199.48242 109.17578 L 199.48242 109.07227 A 7.0421777 7.0421777 0 0 1 196.45898 103.35547 A 7.0421777 7.0421777 0 0 1 199.48242 97.640625 L 199.48242 97.535156 L 154.12891 97.535156 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect2419"
        width="11.999935"
        height="7.8401809"
        x="40.779938"
-       y="28.886091" />
+       y="28.886091"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="rect2683"
        width="11.999838"
        height="0.66780871"
        x="40.779884"
-       y="25.166273" />
+       y="25.166273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect1993-5"
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
-       d="m 117.33827,30.235802 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.79995,1.512052 1.8632428,1.8632428 0 0 1 -0.79995,1.528072 v 0.01188 h 11.99978 v -0.02739 a 1.8632428,1.8632428 0 0 1 -0.79995,-1.51257 1.8632428,1.8632428 0 0 1 0.79995,-1.512053 v -0.02791 z" />
+       d="m 109.40072,30.235802 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.79995,1.512052 1.8632428,1.8632428 0 0 1 -0.79995,1.528072 v 0.01188 h 11.99978 v -0.02739 a 1.8632428,1.8632428 0 0 1 -0.79995,-1.51257 1.8632428,1.8632428 0 0 1 0.79995,-1.512053 v -0.02791 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 40.77994,25.83408 V 10.76974"
-       id="path2798" />
+       id="path2798"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 52.779723,25.834082 V 10.769741"
-       id="path2800" />
+       id="path2800"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 41.279876,24.166273 V 10.769741"
-       id="path2802" />
+       id="path2802"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        d="M 52.279875,24.166273 V 10.769741"
-       id="path2804" />
+       id="path2804"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="path2936"
        cx="46.779831"
        cy="16.809208"
-       r="5.9998918" />
+       r="5.9998918"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
        id="path2938"
        cx="46.779831"
        cy="16.809208"
-       r="5.4999995" />
+       r="5.4999995"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.0999996;stop-color:#000000"
        id="circle3020"
        cx="46.779831"
        cy="16.809208"
-       r="3.365" />
+       r="3.365"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.0999998;stop-color:#000000"
        id="circle3022"
        cx="46.779831"
        cy="16.809208"
-       r="2.55" />
+       r="2.55"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.0999997;stop-color:#000000"
        id="path2936-04"
-       cx="123.33816"
+       cx="115.40067"
        cy="30.263702"
        rx="5.9998918"
        ry="2.9999459" />
     <ellipse
-       style="fill:#969696;stroke:none;stroke-width:0.0999997;stop-color:#000000;fill-opacity:1"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
        id="path2936-0-8"
-       cx="104.8411"
+       cx="99.020279"
        cy="28.87421"
        rx="5.9998918"
-       ry="2.9999459" />
+       ry="2.9999459"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="M 104.84114,31.88591 V 28.8339"
-       id="path9161-8" />
+       d="M 99.020276,31.88591 V 28.8339"
+       id="path9161-8"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 98.93241,26.354886 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
-       id="path39788-4" />
+       d="m 93.111573,26.354886 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
+       id="path39788-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 99.29797,26.981978 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
-       id="path39889-1" />
+       d="m 93.477133,26.981978 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
+       id="path39889-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 99.78089,27.445819 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
-       id="path39891-5" />
+       d="m 93.960053,27.445819 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
+       id="path39891-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 100.59858,27.955232 c 0.6524,-0.3262 0.74774,-0.0879 0.74774,1.295122 0,1.383019 -0.74774,1.756891 -0.74774,1.756891"
-       id="path40006-8" />
+       d="m 94.77774,27.955232 c 0.652397,-0.3262 0.747737,-0.0879 0.747737,1.295122 0,1.383019 -0.747737,1.756891 -0.747737,1.756891"
+       id="path40006-8"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 101.39974,28.291358 c 0.57344,-0.409477 0.55062,-0.0583 0.55062,1.300266 0,1.358567 -0.55062,1.751748 -0.55062,1.751748"
-       id="path40008-6" />
+       d="m 95.578897,28.291358 c 0.573437,-0.409477 0.550617,-0.0583 0.550617,1.300266 0,1.358567 -0.550617,1.751748 -0.550617,1.751748"
+       id="path40008-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 102.57704,28.634994 c 0.24362,-0.362106 0.34049,-0.08675 0.34049,1.27073 0,1.357479 -0.37245,1.751828 -0.37245,1.751828"
-       id="path40010-1" />
+       d="m 96.756191,28.634994 c 0.243617,-0.362106 0.340487,-0.08675 0.340487,1.27073 0,1.357479 -0.372447,1.751828 -0.372447,1.751828"
+       id="path40010-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 103.55131,28.742989 c 0.14575,-0.328726 0.34417,-0.105484 0.34417,1.284481 0,1.389967 -0.35295,1.787329 -0.35295,1.787329"
-       id="path40012-8" />
+       d="m 97.730455,28.742989 c 0.14575,-0.328726 0.344167,-0.105484 0.344167,1.284481 0,1.389967 -0.352947,1.787329 -0.352947,1.787329"
+       id="path40012-8"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 110.74983,26.343133 c -0.79461,-0.07006 -0.8573,0.288626 -0.8573,1.484889 0,1.196263 0.8573,1.567122 0.8573,1.567122"
-       id="path39788-4-5" />
+       d="m 104.92896,26.343133 c -0.79461,-0.07006 -0.8573,0.288626 -0.8573,1.484889 0,1.196263 0.8573,1.567122 0.8573,1.567122"
+       id="path39788-4-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 110.38427,26.970225 c -0.72324,-0.149789 -0.84342,0.06984 -0.84342,1.460854 0,1.391013 0.84342,1.59116 0.84342,1.59116"
-       id="path39889-1-9" />
+       d="m 104.5634,26.970225 c -0.72324,-0.149789 -0.84342,0.06984 -0.84342,1.460854 0,1.391013 0.84342,1.59116 0.84342,1.59116"
+       id="path39889-1-9"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 109.90135,27.434066 c -0.64518,-0.205515 -0.72947,0.06808 -0.72947,1.415899 0,1.347822 0.72947,1.636115 0.72947,1.636115"
-       id="path39891-5-2" />
+       d="m 104.08048,27.434066 c -0.64518,-0.205515 -0.72947,0.06808 -0.72947,1.415899 0,1.347822 0.72947,1.636115 0.72947,1.636115"
+       id="path39891-5-2"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 109.08366,27.943479 c -0.6524,-0.3262 -0.74774,-0.0879 -0.74774,1.295122 0,1.383019 0.74774,1.756891 0.74774,1.756891"
-       id="path40006-8-4" />
+       d="m 103.26279,27.943479 c -0.6524,-0.3262 -0.74774,-0.0879 -0.74774,1.295122 0,1.383019 0.74774,1.756891 0.74774,1.756891"
+       id="path40006-8-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 108.2825,28.279605 c -0.57344,-0.409477 -0.55062,-0.0583 -0.55062,1.300266 0,1.358567 0.55062,1.751748 0.55062,1.751748"
-       id="path40008-6-3" />
+       d="m 102.46163,28.279605 c -0.57344,-0.409477 -0.55062,-0.0583 -0.55062,1.300266 0,1.358567 0.55062,1.751748 0.55062,1.751748"
+       id="path40008-6-3"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 107.1052,28.623241 c -0.24362,-0.362106 -0.34049,-0.08675 -0.34049,1.27073 0,1.357479 0.37245,1.751828 0.37245,1.751828"
-       id="path40010-1-5" />
+       d="m 101.28433,28.623241 c -0.24362,-0.362106 -0.34049,-0.08675 -0.34049,1.27073 0,1.357479 0.37245,1.751828 0.37245,1.751828"
+       id="path40010-1-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 106.13093,28.731236 c -0.14575,-0.328726 -0.34417,-0.105484 -0.34417,1.284481 0,1.389967 0.35295,1.787329 0.35295,1.787329"
-       id="path40012-8-8" />
+       d="m 100.31006,28.731236 c -0.14575,-0.328726 -0.344167,-0.105484 -0.344167,1.284481 0,1.389967 0.352947,1.787329 0.352947,1.787329"
+       id="path40012-8-8"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.104038;stop-color:#000000"
        id="ellipse1768-0-2"
-       cx="118.46494"
-       cy="80.00489"
+       cx="112.16447"
+       cy="77.593857"
        rx="1.1496871"
        ry="2.5500002"
-       transform="matrix(0.92387953,-0.38268343,0,1,0,0)" />
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.104038;stop-color:#000000"
        id="circle1772-1-5"
-       cx="118.32127"
-       cy="79.949905"
+       cx="112.0208"
+       cy="77.538872"
        rx="0.87944365"
        ry="1.625"
-       transform="matrix(0.92387953,-0.38268343,0,1,0,0)" />
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#969696;stroke:none;stroke-width:0.0999996;stop-color:#000000;fill-opacity:1"
        id="ellipse3066"
        cx="67.946548"
        cy="33.826275"
        rx="2.1243446"
-       ry="2.5500002" />
+       ry="2.5500002"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:#323232;stroke:none;stroke-width:0.1;stop-color:#000000;fill-opacity:1"
        id="circle3070"
        cx="67.946548"
        cy="33.826275"
-       r="1.625" />
+       r="1.625"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        d="m 62.446544,37.226271 -0.499999,-0.499999 h 11.999999 l -0.499996,0.499999 z"
-       id="path3072" />
+       id="path3072"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#c8c8c8;stroke:none;stroke-width:0.1;stop-color:#000000;fill-opacity:1"
        d="m 61.946553,25.166273 0.499991,-1 h 10.999999 l 0.500001,1 z"
-       id="path3074" />
+       id="path3074"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path3076"
        style="fill:#969696;stroke:none;stroke-width:0.1;stop-color:#000000;fill-opacity:1"
-       d="m 61.946608,25.806176 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.799949,1.512052 1.8632428,1.8632428 0 0 1 -0.799949,1.528072 v 0.01188 H 73.946391 V 28.8587 a 1.8632428,1.8632428 0 0 1 -0.799952,-1.51257 1.8632428,1.8632428 0 0 1 0.799952,-1.512052 v -0.02791 z" />
+       d="m 61.946608,25.806176 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.799949,1.512052 1.8632428,1.8632428 0 0 1 -0.799949,1.528072 v 0.01188 H 73.946391 V 28.8587 a 1.8632428,1.8632428 0 0 1 -0.799952,-1.51257 1.8632428,1.8632428 0 0 1 0.799952,-1.512052 v -0.02791 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        id="rect3080"
        width="11.999838"
        height="0.66780871"
        x="61.946556"
-       y="25.166273" />
+       y="25.166273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 67.946579,28.886091 v -3.05201"
-       id="path8487" />
+       id="path8487"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path8861"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 61.946608,25.834086 c 0.495931,0.344598 0.794093,0.90818 0.799949,1.512052 -6.5e-4,0.609542 -0.299404,1.180226 -0.799949,1.528072"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        id="rect9141"
        width="11.999935"
        height="7.8401809"
        x="77.821602"
-       y="28.886091" />
+       y="28.886091"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0999999;stop-color:#000000"
        id="rect9143"
        width="3.2499983"
        height="3.7982094"
        x="82.196541"
-       y="18.635975" />
+       y="18.635975"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path9145"
        style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.1;stop-color:#000000"
-       d="m 83.821757,10.809159 a 5.9998916,5.9998916 0 0 0 -6.00015,6.000151 5.9998916,5.9998916 0 0 0 6.00015,5.999633 5.9998916,5.9998916 0 0 0 5.999633,-5.999633 5.9998916,5.9998916 0 0 0 -5.999633,-6.000151 z m 0,3.449919 a 2.5499999,2.5499999 0 0 1 2.549715,2.550232 2.5499999,2.5499999 0 0 1 -2.549715,2.549715 2.5499999,2.5499999 0 0 1 -2.550232,-2.549715 2.5499999,2.5499999 0 0 1 2.550232,-2.550232 z" />
+       d="m 83.821757,10.809159 a 5.9998916,5.9998916 0 0 0 -6.00015,6.000151 5.9998916,5.9998916 0 0 0 6.00015,5.999633 5.9998916,5.9998916 0 0 0 5.999633,-5.999633 5.9998916,5.9998916 0 0 0 -5.999633,-6.000151 z m 0,3.449919 a 2.5499999,2.5499999 0 0 1 2.549715,2.550232 2.5499999,2.5499999 0 0 1 -2.549715,2.549715 2.5499999,2.5499999 0 0 1 -2.550232,-2.549715 2.5499999,2.5499999 0 0 1 2.550232,-2.550232 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path9147"
        style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 83.821757,11.309387 a 5.4999995,5.4999995 0 0 0 -5.500439,5.499923 5.4999995,5.4999995 0 0 0 5.500439,5.499922 5.4999995,5.4999995 0 0 0 5.499922,-5.499922 5.4999995,5.4999995 0 0 0 -5.499922,-5.499923 z m 0,2.134753 a 3.3649999,3.3649999 0 0 1 3.364653,3.36517 3.3649999,3.3649999 0 0 1 -3.364653,3.364652 3.3649999,3.3649999 0 0 1 -3.36517,-3.364652 3.3649999,3.3649999 0 0 1 3.36517,-3.36517 z" />
+       d="m 83.821757,11.309387 a 5.4999995,5.4999995 0 0 0 -5.500439,5.499923 5.4999995,5.4999995 0 0 0 5.500439,5.499922 5.4999995,5.4999995 0 0 0 5.499922,-5.499922 5.4999995,5.4999995 0 0 0 -5.499922,-5.499923 z m 0,2.134753 a 3.3649999,3.3649999 0 0 1 3.364653,3.36517 3.3649999,3.3649999 0 0 1 -3.364653,3.364652 3.3649999,3.3649999 0 0 1 -3.36517,-3.364652 3.3649999,3.3649999 0 0 1 3.36517,-3.36517 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999996;stop-color:#000000"
        id="ellipse9149"
        cx="83.821541"
        cy="33.826275"
        rx="2.1243446"
-       ry="2.5500002" />
+       ry="2.5500002"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        id="circle9151"
        cx="83.821541"
        cy="33.826275"
-       r="1.625" />
+       r="1.625"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        d="m 78.321545,37.226271 -0.499999,-0.499999 h 11.999999 l -0.499996,0.499999 z"
-       id="path9153" />
+       id="path9153"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        d="m 77.821554,25.166273 0.499991,-1 h 10.999999 l 0.500001,1 z"
-       id="path9155" />
+       id="path9155"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path9157"
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 77.821609,25.806176 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.799949,1.512052 1.8632428,1.8632428 0 0 1 -0.799949,1.528072 v 0.01188 H 89.821392 V 28.8587 a 1.8632428,1.8632428 0 0 1 -0.799952,-1.51257 1.8632428,1.8632428 0 0 1 0.799952,-1.512052 v -0.02791 z" />
+       d="m 77.821609,25.806176 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.799949,1.512052 1.8632428,1.8632428 0 0 1 -0.799949,1.528072 v 0.01188 H 89.821392 V 28.8587 a 1.8632428,1.8632428 0 0 1 -0.799952,-1.51257 1.8632428,1.8632428 0 0 1 0.799952,-1.512052 v -0.02791 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
        id="rect9159"
        width="11.999838"
        height="0.66780871"
        x="77.821548"
-       y="25.166273" />
+       y="25.166273"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 83.82158,28.886091 v -3.05201"
-       id="path9161" />
+       id="path9161"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10353"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 78.578146,25.834086 c 0.433399,0.344598 0.693966,0.90818 0.699084,1.512052 -5.68e-4,0.609542 -0.261653,1.180226 -0.699084,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="4.8938918"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10361"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 79.32815,25.834086 c 0.371407,0.344598 0.594704,0.90818 0.59909,1.512052 -4.88e-4,0.609542 -0.224228,1.180226 -0.59909,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="4.1938846"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10365"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 80.078156,25.834086 c 0.309415,0.344598 0.495441,0.90818 0.499095,1.512052 -4.06e-4,0.609542 -0.186802,1.180226 -0.499095,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="3.493876"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10377"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 80.828163,25.834086 c 0.247422,0.344598 0.396178,0.90818 0.399099,1.512052 -3.25e-4,0.609542 -0.149376,1.180226 -0.399099,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="2.7938669"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10385"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 81.571561,25.834086 c 0.185976,0.344598 0.297789,0.90818 0.299985,1.512052 -2.45e-4,0.609542 -0.11228,1.180226 -0.299985,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="2.1000258"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10397"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 82.318075,25.834086 c 0.124272,0.344598 0.198988,0.90818 0.200455,1.512052 -1.64e-4,0.609542 -0.07503,1.180226 -0.200455,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="1.4032769"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10405"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 83.068776,25.834086 c 0.06222,0.344598 0.09963,0.90818 0.100368,1.512052 -8.2e-5,0.609542 -0.03757,1.180226 -0.100368,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="0.70262073"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10353-7"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 89.065014,25.834085 c -0.433399,0.344598 -0.693966,0.90818 -0.699084,1.512052 5.68e-4,0.609542 0.261653,1.180226 0.699084,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-4.8938913"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10361-9"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 88.31501,25.834085 c -0.371407,0.344598 -0.594704,0.90818 -0.59909,1.512052 4.88e-4,0.609542 0.224228,1.180226 0.59909,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-4.1938841"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10365-8"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 87.565004,25.834085 c -0.309415,0.344598 -0.495441,0.90818 -0.499095,1.512052 4.06e-4,0.609542 0.186802,1.180226 0.499095,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-3.4938755"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10377-8"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 86.814997,25.834085 c -0.247422,0.344598 -0.396178,0.90818 -0.399099,1.512052 3.25e-4,0.609542 0.149376,1.180226 0.399099,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-2.7938664"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10385-4"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 86.071599,25.834085 c -0.185976,0.344598 -0.297789,0.90818 -0.299985,1.512052 2.45e-4,0.609542 0.11228,1.180226 0.299985,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-2.1000253"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10397-7"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 85.325085,25.834085 c -0.124272,0.344598 -0.198988,0.90818 -0.200455,1.512052 1.64e-4,0.609542 0.07503,1.180226 0.200455,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-1.4032764"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path10405-7"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 84.574384,25.834085 c -0.06222,0.344598 -0.09963,0.90818 -0.100368,1.512052 8.2e-5,0.609542 0.03757,1.180226 0.100368,1.528072"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-0.70262023"
-       inkscape:transform-center-y="-0.005938" />
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect13730"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37795276;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 296.01758 91.337891 L 294.12891 95.117188 L 294.12891 97.640625 A 7.0421775 7.0421775 0 0 1 296.98828 101.92188 L 296.98828 104.85742 A 7.0421775 7.0421775 0 0 1 294.12891 109.13086 L 294.12891 109.17578 L 294.12891 138.80859 L 296.01758 140.69727 L 337.59375 140.69727 L 339.48242 138.80859 L 339.48242 109.17578 L 339.48242 109.07227 A 7.0421775 7.0421775 0 0 1 336.62305 104.78906 L 336.62305 101.92188 A 7.0421775 7.0421775 0 0 1 339.48242 97.640625 L 339.48242 97.535156 L 339.48242 95.117188 L 337.59375 91.337891 L 296.01758 91.337891 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       id="rect9141-4"
+       width="11.999935"
+       height="7.8401809"
+       x="33.353233"
+       y="64.320129"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999996;stop-color:#000000"
+       id="ellipse9149-7"
+       cx="39.353172"
+       cy="69.260315"
+       rx="2.1243446"
+       ry="2.5500002"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       id="circle9151-3"
+       cx="39.353172"
+       cy="69.260315"
+       r="1.625"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="M 33.853177,72.66031 33.353178,72.160311 H 45.353177 L 44.853181,72.66031 Z"
+       id="path9153-7"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="m 33.353186,60.600312 0.499991,-1 h 10.999999 l 0.500001,1 z"
+       id="path9155-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path9157-6"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="m 33.353241,61.240215 v 0.02791 a 1.8632428,1.8632428 0 0 1 0.799949,1.512052 1.8632428,1.8632428 0 0 1 -0.799949,1.528072 v 0.01188 h 11.999783 v -0.02739 a 1.8632428,1.8632428 0 0 1 -0.799952,-1.51257 1.8632428,1.8632428 0 0 1 0.799952,-1.512052 v -0.02791 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       id="rect9159-3"
+       width="11.999838"
+       height="0.66780871"
+       x="33.35318"
+       y="60.600311"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="M 39.353212,64.32013 V 61.26812"
+       id="path9161-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10353-3"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 34.109778,61.268125 c 0.433399,0.344598 0.693966,0.90818 0.699084,1.512052 -5.68e-4,0.609542 -0.261653,1.180226 -0.699084,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="4.8938918"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10361-4"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 34.859782,61.268125 c 0.371407,0.344598 0.594704,0.90818 0.59909,1.512052 -4.88e-4,0.609542 -0.224228,1.180226 -0.59909,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="4.1938846"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10365-9"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 35.609788,61.268125 c 0.309415,0.344598 0.495441,0.90818 0.499095,1.512052 -4.06e-4,0.609542 -0.186802,1.180226 -0.499095,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="3.493876"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10377-4"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 36.359795,61.268125 c 0.247422,0.344598 0.396178,0.90818 0.399099,1.512052 -3.25e-4,0.609542 -0.149376,1.180226 -0.399099,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="2.7938669"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10385-49"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 37.103193,61.268125 c 0.185976,0.344598 0.297789,0.90818 0.299985,1.512052 -2.45e-4,0.609542 -0.11228,1.180226 -0.299985,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="2.1000258"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10397-3"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 37.849707,61.268125 c 0.124272,0.344598 0.198988,0.90818 0.200455,1.512052 -1.64e-4,0.609542 -0.07503,1.180226 -0.200455,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="1.4032769"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10405-3"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 38.600408,61.268125 c 0.06222,0.344598 0.09963,0.90818 0.100368,1.512052 -8.2e-5,0.609542 -0.03757,1.180226 -0.100368,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="0.70262073"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10353-7-2"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 44.596646,61.268124 c -0.433399,0.344598 -0.693966,0.90818 -0.699084,1.512052 5.68e-4,0.609542 0.261653,1.180226 0.699084,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-4.8938913"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10361-9-6"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 43.846642,61.268124 c -0.371407,0.344598 -0.594704,0.90818 -0.59909,1.512052 4.88e-4,0.609542 0.224228,1.180226 0.59909,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-4.1938841"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10365-8-9"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 43.096636,61.268124 c -0.309415,0.344598 -0.495441,0.90818 -0.499095,1.512052 4.06e-4,0.609542 0.186802,1.180226 0.499095,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-3.4938755"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10377-8-7"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 42.346629,61.268124 c -0.247422,0.344598 -0.396178,0.90818 -0.399099,1.512052 3.25e-4,0.609542 0.149376,1.180226 0.399099,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-2.7938664"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10385-4-0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 41.603231,61.268124 c -0.185976,0.344598 -0.297789,0.90818 -0.299985,1.512052 2.45e-4,0.609542 0.11228,1.180226 0.299985,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-2.1000253"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10397-7-7"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 40.856717,61.268124 c -0.124272,0.344598 -0.198988,0.90818 -0.200455,1.512052 1.64e-4,0.609542 0.07503,1.180226 0.200455,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-1.4032764"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path10405-7-8"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 40.106016,61.268124 c -0.06222,0.344598 -0.09963,0.90818 -0.100368,1.512052 8.2e-5,0.609542 0.03757,1.180226 0.100368,1.528072"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-0.70262023"
+       inkscape:transform-center-y="-0.005938"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect13730-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 33.852949,59.600522 -0.49971,0.999939 v 0.66766 a 1.8632428,1.8632428 0 0 1 0.756541,1.132748 v 0.776695 a 1.8632428,1.8632428 0 0 1 -0.756541,1.130681 v 0.01188 7.840348 l 0.49971,0.499713 h 11.000362 l 0.49971,-0.499713 v -7.840348 -0.02739 A 1.8632428,1.8632428 0 0 1 44.59648,63.159469 v -0.758608 a 1.8632428,1.8632428 0 0 1 0.756541,-1.132749 v -0.0279 -0.639754 l -0.49971,-0.999939 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect1993-8"
-       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-opacity:1;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 110.84099,28.858701 c -0.49608,-0.344704 -0.79426,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30402,-1.167455 0.79995,-1.512053 v -0.02791 l -11.999779,8e-6 v 0.02791 c 0.495931,0.344598 0.794094,0.908181 0.79995,1.512053 -6.5e-4,0.609542 -0.299405,1.180226 -0.79995,1.528072"
-       sodipodi:nodetypes="cccccccc" />
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 105.02012,28.858701 c -0.49608,-0.344704 -0.79426,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30402,-1.167455 0.79995,-1.512053 v -0.02791 l -11.999746,8e-6 v 0.02791 c 0.495931,0.344598 0.794094,0.908181 0.79995,1.512053 -6.5e-4,0.609542 -0.299405,1.180226 -0.79995,1.528072"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect1993-8-1"
        style="fill:none;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 99.45622,24.471256 v 0.02791 c 0.495928,0.3446 0.79409,0.908183 0.79994,1.512053 -6.5e-4,0.609541 -0.299399,1.180224 -0.79994,1.528072 v 0.01188 l 10.76977,0 v -0.02739 c -0.49608,-0.344704 -0.79427,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30401,-1.167455 0.79995,-1.512053 v -0.02791 z"
-       sodipodi:nodetypes="ccccccccccc" />
+       d="m 93.635383,24.471256 v 0.02791 c 0.495928,0.3446 0.79409,0.908183 0.79994,1.512053 -6.5e-4,0.609541 -0.299399,1.180224 -0.79994,1.528072 v 0.01188 h 10.769737 v -0.02739 c -0.49608,-0.344704 -0.79427,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30401,-1.167455 0.79995,-1.512053 v -0.02791 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect2683-4"
        style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 104.84114,22.834265 a 5.9998916,2.9999458 0 0 0 -5.846664,2.332157 h -0.15348 v 0.66766 a 5.9998916,2.9999458 0 0 0 6.000144,2.999818 5.9998916,2.9999458 0 0 0 5.99963,-2.999818 v -0.66766 h -0.15038 a 5.9998916,2.9999458 0 0 0 -5.84925,-2.332157 z" />
+       d="m 99.020276,22.834265 a 5.9998916,2.9999458 0 0 0 -5.846637,2.332157 h -0.15348 v 0.66766 a 5.9998916,2.9999458 0 0 0 6.000117,2.999818 5.9998916,2.9999458 0 0 0 5.999624,-2.999818 v -0.66766 h -0.15038 a 5.9998916,2.9999458 0 0 0 -5.849244,-2.332157 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path2936-0"
        style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-       d="m 104.84114,22.166089 a 5.9998916,2.9999458 0 0 0 -5.079787,1.405599 h -0.29042 l -0.4067,0.784448 a 5.9998916,2.9999458 0 0 0 -0.002,0.0031 l -0.0584,0.112138 h 0.004 a 5.9998916,2.9999458 0 0 0 -0.16691,0.695048 5.9998916,2.9999458 0 0 0 6.000147,2.999818 5.9998916,2.9999458 0 0 0 5.99963,-2.999818 5.9998916,2.9999458 0 0 0 -0.16071,-0.690397 l -0.006,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.0589,-0.114205 l -0.40411,-0.778247 h -0.28784 a 5.9998916,2.9999458 0 0 0 -5.08186,-1.405599 z" />
+       d="m 99.020276,22.166089 a 5.9998916,2.9999458 0 0 0 -5.07976,1.405599 h -0.29042 l -0.4067,0.784448 a 5.9998916,2.9999458 0 0 0 -0.002,0.0031 l -0.0584,0.112138 h 0.004 a 5.9998916,2.9999458 0 0 0 -0.16691,0.695048 5.9998916,2.9999458 0 0 0 6.00012,2.999818 5.9998916,2.9999458 0 0 0 5.999624,-2.999818 5.9998916,2.9999458 0 0 0 -0.16071,-0.690397 l -0.006,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.0589,-0.114205 l -0.40411,-0.778247 h -0.28784 a 5.9998916,2.9999458 0 0 0 -5.081854,-1.405599 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
-       style="fill:#dcdcdc;stroke:none;stroke-width:0.0999997;stop-color:#000000;fill-opacity:1"
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
        id="path2938-4"
-       cx="104.84114"
+       cx="99.020309"
        cy="24.166273"
        rx="5.4999995"
-       ry="2.7499998" />
+       ry="2.7499998"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
-       style="fill:#c8c8c8;stroke:none;stroke-width:0.1;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="circle3020-8"
-       cx="104.84114"
+       cx="99.020309"
        cy="24.166273"
        rx="3.365"
-       ry="1.6825" />
+       ry="1.6825"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
-       style="fill:#969696;stroke:none;stroke-width:0.0999997;stop-color:#000000;fill-opacity:1"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
        id="circle3022-3"
-       cx="104.84114"
+       cx="99.020309"
        cy="24.471249"
        rx="2.55"
-       ry="1.275" />
+       ry="1.275"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="ellipse36807"
-       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.18897638;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 386.61133,92.490234 c 5.9e-4,2.661365 4.31594,4.818602 9.63867,4.81836 5.32273,2.42e-4 9.63808,-2.156995 9.63867,-4.81836"
-       transform="scale(0.26458333)"
-       sodipodi:nodetypes="ccc" />
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 96.470071,24.471374 c 1.5e-4,0.704153 1.141914,1.274922 2.550215,1.274858 1.408294,6.4e-5 2.550064,-0.570705 2.550224,-1.274858"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 123.33815,27.263758 v 5.999891"
+       d="m 115.4006,27.263758 v 5.999891"
        id="path37789" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.33826,30.263703 h 11.99979"
+       d="M 109.40071,30.263703 H 121.4005"
        id="path37791" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 127.58072,28.14242 -8.48513,4.242564"
+       d="m 119.64317,28.14242 -8.48513,4.242564"
        id="path37873" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 119.09559,28.14242 8.48513,4.242566"
+       d="m 111.15804,28.14242 8.48513,4.242566"
        id="path37875" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 125.63421,27.492114 -4.59212,5.543177"
+       d="m 117.69666,27.492114 -4.59212,5.543177"
        id="path37877" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.79498,29.115673 11.08636,2.29606"
+       d="m 109.85743,29.115673 11.08636,2.29606"
        id="path37879" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 128.88133,29.115673 -11.08635,2.296058"
+       d="m 120.94378,29.115673 -11.08635,2.296058"
        id="path37881" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 121.0421,27.492113 4.59211,5.54318"
+       d="m 113.10455,27.492113 4.59211,5.54318"
        id="path37883" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 124.63676,27.334868 -2.59722,5.85767"
+       d="m 116.69921,27.334868 -2.59722,5.85767"
        id="path37885" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.48048,29.614395 11.71535,1.298615"
+       d="m 109.54293,29.614395 11.71535,1.298615"
        id="path37887" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="M 128.39841,28.651832 118.2779,31.875571"
+       d="m 120.46086,28.651832 -10.12051,3.223739"
        id="path37889" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 120.11442,27.733573 6.44748,5.06026"
+       d="m 112.17687,27.733573 6.44748,5.06026"
        id="path37891" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 126.77955,27.806291 -6.8828,4.914823"
+       d="m 118.842,27.806291 -6.8828,4.914823"
        id="path37893" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 118.42333,28.543005 9.82966,3.441398"
+       d="m 110.48578,28.543005 9.82966,3.441398"
        id="path37895" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 129.24689,29.742767 -11.81747,1.04187"
+       d="m 121.30934,29.742767 -11.81747,1.04187"
        id="path37897" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 122.29629,27.309332 2.08373,5.908742"
+       d="m 114.35874,27.309332 2.08373,5.908742"
        id="path37899" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.0999997;stop-color:#000000"
        id="path2936-04-2"
-       cx="123.33816"
+       cx="115.40067"
        cy="33.315716"
        rx="5.9998918"
        ry="2.9999459" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 123.33815,30.315771 v 5.999891"
+       d="m 115.4006,30.315771 v 5.999891"
        id="path37789-1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.33826,33.315716 h 11.99979"
+       d="M 109.40071,33.315716 H 121.4005"
        id="path37791-5" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 127.58072,31.194433 -8.48513,4.242564"
+       d="m 119.64317,31.194433 -8.48513,4.242564"
        id="path37873-1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 119.09559,31.194433 8.48513,4.242566"
+       d="m 111.15804,31.194433 8.48513,4.242566"
        id="path37875-4" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 125.63421,30.544127 -4.59212,5.543177"
+       d="m 117.69666,30.544127 -4.59212,5.543177"
        id="path37877-6" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.79498,32.167686 11.08636,2.29606"
+       d="m 109.85743,32.167686 11.08636,2.29606"
        id="path37879-5" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 128.88133,32.167686 -11.08635,2.296058"
+       d="m 120.94378,32.167686 -11.08635,2.296058"
        id="path37881-9" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 121.0421,30.544126 4.59211,5.54318"
+       d="m 113.10455,30.544126 4.59211,5.54318"
        id="path37883-3" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 124.63676,30.386881 -2.59722,5.85767"
+       d="m 116.69921,30.386881 -2.59722,5.85767"
        id="path37885-0" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.48048,32.666408 11.71535,1.298615"
+       d="m 109.54293,32.666408 11.71535,1.298615"
        id="path37887-1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="M 128.39841,31.703845 118.2779,34.927584"
+       d="m 120.46086,31.703845 -10.12051,3.223739"
        id="path37889-5" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 120.11442,30.785586 6.44748,5.06026"
+       d="m 112.17687,30.785586 6.44748,5.06026"
        id="path37891-4" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 126.77955,30.858304 -6.8828,4.914823"
+       d="m 118.842,30.858304 -6.8828,4.914823"
        id="path37893-2" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 118.42333,31.595018 9.82966,3.441398"
+       d="m 110.48578,31.595018 9.82966,3.441398"
        id="path37895-8" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 129.24689,32.79478 -11.81747,1.04187"
+       d="m 121.30934,32.79478 -11.81747,1.04187"
        id="path37897-6" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 122.29629,30.361345 2.08373,5.908742"
+       d="m 114.35874,30.361345 2.08373,5.908742"
        id="path37899-8" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
-       d="M 161.71673,43.480562 V 30.08403"
+       d="M 135.7874,43.480562 V 30.08403"
        id="path37901" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
-       d="M 172.71672,43.480562 V 30.08403"
+       d="M 146.78739,43.480562 V 30.08403"
        id="path37903" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 167.21668,33.123552 v 5.999891"
+       d="m 141.28735,33.123552 v 5.999891"
        id="path37913" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 161.21679,36.123496 h 11.99979"
+       d="m 135.28746,36.123496 h 11.99979"
        id="path37915" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 171.45925,34.002213 -8.48513,4.242564"
+       d="m 145.52992,34.002213 -8.48513,4.242564"
        id="path37917" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 162.97412,34.002213 8.48513,4.242566"
+       d="m 137.04479,34.002213 8.48513,4.242566"
        id="path37919" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 169.51274,33.351908 -4.59212,5.543177"
+       d="m 143.58341,33.351908 -4.59212,5.543177"
        id="path37921" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 161.67351,34.975466 11.08636,2.29606"
+       d="m 135.74418,34.975466 11.08636,2.29606"
        id="path37923" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 172.75986,34.975466 -11.08635,2.296058"
+       d="m 146.83053,34.975466 -11.08635,2.296058"
        id="path37925" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 164.92063,33.351906 4.59211,5.54318"
+       d="m 138.9913,33.351906 4.59211,5.54318"
        id="path37927" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 168.51529,33.194662 -2.59722,5.85767"
+       d="m 142.58596,33.194662 -2.59722,5.85767"
        id="path37929" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 161.35901,35.474188 11.71535,1.298616"
+       d="m 135.42968,35.474188 11.71535,1.298616"
        id="path37931" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 172.27694,34.511625 -10.12051,3.22374"
+       d="m 146.34761,34.511625 -10.12051,3.22374"
        id="path37933" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 163.99295,33.593367 6.44748,5.060259"
+       d="m 138.06362,33.593367 6.44748,5.060259"
        id="path37935" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 170.65808,33.666084 -6.8828,4.914823"
+       d="m 144.72875,33.666084 -6.8828,4.914823"
        id="path37937" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 162.30186,34.402798 9.82966,3.441398"
+       d="m 136.37253,34.402798 9.82966,3.441398"
        id="path37939" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 173.12542,35.60256 -11.81747,1.04187"
+       d="m 147.19609,35.60256 -11.81747,1.04187"
        id="path37941" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 166.17482,33.169126 2.08373,5.908742"
+       d="m 140.24549,33.169126 2.08373,5.908742"
        id="path37943" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 130.34785,30.448681 h 10.349"
+       d="m 122.4103,30.448681 h 10.349"
        id="path38800" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 140.69685,30.448681 v 10.349"
+       d="m 132.7593,30.448681 v 10.349"
        id="path38800-1" />
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path39019"
-       cx="167.10245"
+       cx="141.17363"
        cy="36.123493"
        rx="5.1745"
        ry="2.58725" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 123.45239,28.875631 v 5.999891"
+       d="m 115.51484,28.875631 v 5.999891"
        id="path37913-1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.4525,31.875574 h 11.99979"
+       d="m 109.51495,31.875574 h 11.99979"
        id="path37915-3" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 127.69496,29.754291 -8.48513,4.242564"
+       d="m 119.75741,29.754291 -8.48513,4.242564"
        id="path37917-4" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 119.20983,29.754291 8.48513,4.242567"
+       d="m 111.27228,29.754291 8.48513,4.242567"
        id="path37919-6" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 125.74845,29.103986 -4.59212,5.543178"
+       d="m 117.8109,29.103986 -4.59212,5.543178"
        id="path37921-3" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.90922,30.727545 11.08636,2.29606"
+       d="m 109.97167,30.727545 11.08636,2.29606"
        id="path37923-4" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 128.99556,30.727545 -11.08634,2.296058"
+       d="m 121.05801,30.727545 -11.08634,2.296058"
        id="path37925-2" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 121.15634,29.103984 4.59211,5.543181"
+       d="m 113.21879,29.103984 4.59211,5.543181"
        id="path37927-6" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 124.751,28.94674 -2.59722,5.857671"
+       d="m 116.81345,28.94674 -2.59722,5.857671"
        id="path37929-2" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.59472,31.226266 11.71535,1.298617"
+       d="m 109.65717,31.226266 11.71535,1.298617"
        id="path37931-8" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 128.51265,30.263703 -10.12051,3.223741"
+       d="m 120.5751,30.263703 -10.12051,3.223741"
        id="path37933-1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 120.22866,29.345446 6.44748,5.060259"
+       d="m 112.29111,29.345446 6.44748,5.060259"
        id="path37935-0" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 126.89379,29.418162 -6.8828,4.914824"
+       d="m 118.95624,29.418162 -6.8828,4.914824"
        id="path37937-2" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 118.53757,30.154877 9.82966,3.441398"
+       d="m 110.60002,30.154877 9.82966,3.441398"
        id="path37939-4" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 129.36113,31.354639 -11.81747,1.04187"
+       d="m 121.42358,31.354639 -11.81747,1.04187"
        id="path37941-6" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 122.41053,28.921204 2.08373,5.908743"
+       d="m 114.47298,28.921204 2.08373,5.908743"
        id="path37943-6" />
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path39019-9"
-       cx="123.33816"
+       cx="115.40067"
        cy="31.87557"
        rx="5.1745"
        ry="2.58725" />
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path39019-9-7"
-       cx="123.33816"
+       cx="115.40067"
        cy="30.320824"
        rx="5.1745"
        ry="2.58725" />
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path39019-9-3"
-       cx="123.4524"
+       cx="115.51492"
        cy="33.314796"
        rx="5.1745"
        ry="2.58725" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 122.29629,30.361345 2.08373,5.908742"
+       d="m 114.35874,30.361345 2.08373,5.908742"
        id="path39638" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.42942,30.784638 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
+       d="m 109.49187,30.784638 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
        id="path39788" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 117.79498,31.41173 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
+       d="m 109.85743,31.41173 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
        id="path39889" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 118.2779,31.875571 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
+       d="m 110.34035,31.875571 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
        id="path39891" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 119.09559,32.384984 c 0.6524,-0.3262 0.74774,-0.0879 0.74774,1.295122 0,1.383019 -0.74774,1.756891 -0.74774,1.756891"
+       d="m 111.15804,32.384984 c 0.6524,-0.3262 0.74774,-0.0879 0.74774,1.295122 0,1.383019 -0.74774,1.756891 -0.74774,1.756891"
        id="path40006" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 119.89675,32.72111 c 0.57344,-0.409477 0.55062,-0.0583 0.55062,1.300266 0,1.358567 -0.55062,1.751748 -0.55062,1.751748"
+       d="m 111.9592,32.72111 c 0.57344,-0.409477 0.55062,-0.0583 0.55062,1.300266 0,1.358567 -0.55062,1.751748 -0.55062,1.751748"
        id="path40008" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 121.07405,33.064746 c 0.24362,-0.362106 0.34049,-0.08675 0.34049,1.27073 0,1.357479 -0.37245,1.751828 -0.37245,1.751828"
+       d="m 113.1365,33.064746 c 0.24362,-0.362106 0.34049,-0.08675 0.34049,1.27073 0,1.357479 -0.37245,1.751828 -0.37245,1.751828"
        id="path40010" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 122.04832,33.172741 c 0.14575,-0.328726 0.34417,-0.105484 0.34417,1.284481 0,1.389967 -0.35295,1.787329 -0.35295,1.787329"
+       d="m 114.11077,33.172741 c 0.14575,-0.328726 0.34417,-0.105484 0.34417,1.284481 0,1.389967 -0.35295,1.787329 -0.35295,1.787329"
        id="path40012" />
     <path
        id="path42950"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000;stroke-opacity:1"
-       d="M 396.25 160.94336 A 20.7874 10.3937 0 0 0 375.96094 169.08984 L 375.95312 169.08984 L 374.41602 172.05469 A 22.676756 11.338378 0 0 0 374.4082 172.06641 L 374.1875 172.49023 L 374.20312 172.49023 A 22.676756 11.338378 0 0 0 373.57227 175.11719 L 373.57227 177.64062 A 22.676756 11.338378 0 0 0 376.71094 183.38672 A 22.676756 11.338378 0 0 0 376.07227 183.95898 C 376.01465 184.00169 375.95756 184.04485 375.89844 184.08594 L 375.89844 184.13086 L 375.91016 184.13086 A 22.676756 11.338378 0 0 0 373.57227 189.13086 A 22.676756 11.338378 0 0 0 373.57617 189.17578 L 373.57227 189.17578 L 373.57227 217.48438 L 373.57227 218.80859 C 373.76399 219.6247 374.12931 220.41189 374.64844 221.16211 C 374.72535 221.2713 376.22266 223.48437 376.22266 223.48438 L 376.22656 223.48438 A 20.7874 10.3937 0 0 0 396.25 231.0918 A 20.7874 10.3937 0 0 0 416.27344 223.48438 L 416.27734 223.48438 L 417.70312 221.37109 C 418.30158 220.55875 418.71818 219.70059 418.92773 218.80859 L 418.92773 189.17578 L 418.92188 189.17578 A 22.676756 11.338378 0 0 0 418.92578 189.13086 A 22.676756 11.338378 0 0 0 416.60156 184.12891 L 416.60156 184.02734 C 416.31588 183.82884 416.04852 183.60957 415.79883 183.375 A 22.676756 11.338378 0 0 0 418.92578 177.64062 L 418.92578 175.11719 A 22.676756 11.338378 0 0 0 418.31836 172.50781 L 418.29492 172.46289 A 22.676756 11.338378 0 0 0 418.07227 172.03125 L 416.54492 169.08984 A 20.7874 10.3937 0 0 0 396.25 160.94336 z "
-       transform="scale(0.26458333)" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 99.020286,42.58293 a 5.4999995,2.7499998 0 0 0 -5.368125,2.155423 h -0.0021 l -0.406691,0.78445 a 5.9998916,2.9999458 0 0 0 -0.0021,0.0031 l -0.05839,0.112135 h 0.0041 a 5.9998916,2.9999458 0 0 0 -0.166912,0.69505 v 0.667658 a 5.9998916,2.9999458 0 0 0 0.830439,1.520322 5.9998916,2.9999458 0 0 0 -0.168981,0.151411 c -0.01524,0.0113 -0.03035,0.02272 -0.04599,0.03359 v 0.01188 h 0.0031 a 5.9998916,2.9999458 0 0 0 -0.618566,1.322917 5.9998916,2.9999458 0 0 0 10e-4,0.01188 h -10e-4 v 7.489983 0.350364 c 0.05072,0.215929 0.147383,0.424207 0.284736,0.622703 0.02035,0.02889 0.416513,0.614431 0.416513,0.614433 h 0.001 a 5.4999995,2.7499998 0 0 0 5.297847,2.012797 5.4999995,2.7499998 0 0 0 5.297864,-2.012797 h 0.001 l 0.37724,-0.559141 c 0.15834,-0.214931 0.26856,-0.441986 0.32401,-0.677995 v -7.840347 h -0.002 a 5.9998916,2.9999458 0 0 0 10e-4,-0.01188 5.9998916,2.9999458 0 0 0 -0.61495,-1.323433 v -0.02687 c -0.0756,-0.05252 -0.14632,-0.110535 -0.21239,-0.172598 a 5.9998916,2.9999458 0 0 0 0.82734,-1.517221 v -0.667658 a 5.9998916,2.9999458 0 0 0 -0.16071,-0.690398 l -0.006,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.0589,-0.114205 l -0.40411,-0.778248 a 5.4999995,2.7499998 0 0 0 -5.369694,-2.155423 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44496"
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-       d="m 104.84114,55.643116 a 5.4999995,2.7499998 0 0 0 -5.499918,2.749704 5.4999995,2.7499998 0 0 0 0.0088,0.124023 l -0.224274,-0.001 c 0.02035,0.02889 0.416512,0.614434 0.416512,0.614434 h 0.001 a 5.4999995,2.7499998 0 0 0 5.29786,2.012796 5.4999995,2.7499998 0 0 0 5.29787,-2.012796 h 10e-4 l 0.37983,-0.562758 -0.19069,-10e-4 a 5.4999995,2.7499998 0 0 0 0.0119,-0.173633 5.4999995,2.7499998 0 0 0 -5.49993,-2.749704 z" />
+       d="m 99.020276,55.643116 a 5.4999995,2.7499998 0 0 0 -5.499891,2.749704 5.4999995,2.7499998 0 0 0 0.0088,0.124023 l -0.224274,-0.001 c 0.02035,0.02889 0.416512,0.614434 0.416512,0.614434 h 0.001 a 5.4999995,2.7499998 0 0 0 5.297833,2.012796 5.4999995,2.7499998 0 0 0 5.297864,-2.012796 h 0.001 l 0.37983,-0.562758 -0.19069,-10e-4 a 5.4999995,2.7499998 0 0 0 0.0119,-0.173633 5.4999995,2.7499998 0 0 0 -5.499924,-2.749704 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44498"
        style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 98.840995,50.052759 v 7.489984 0.350364 0 c 0.354843,1.51044 2.958495,2.649153 6.000145,2.649968 3.04165,-7.93e-4 5.64531,-1.139528 6.00015,-2.649968 v 0 -7.840348 z"
-       sodipodi:nodetypes="ccccccccc" />
+       d="m 93.020158,50.052759 v 7.489984 0.350364 0 c 0.354843,1.51044 2.958486,2.649153 6.000118,2.649968 3.041644,-7.93e-4 5.645304,-1.139528 6.000144,-2.649968 v 0 -7.840348 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
        id="ellipse44500"
-       cx="104.8411"
+       cx="99.020279"
        cy="50.040882"
        rx="5.9998918"
-       ry="2.9999459" />
+       ry="2.9999459"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 104.84114,53.052578 v -3.05201"
-       id="path44502" />
+       d="m 99.020276,53.052578 v -3.05201"
+       id="path44502"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 98.93241,47.521554 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
-       id="path44504" />
+       d="m 93.111573,47.521554 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
+       id="path44504"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 99.29797,48.148646 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
-       id="path44506" />
+       d="m 93.477133,48.148646 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
+       id="path44506"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 99.78089,48.612487 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
-       id="path44508" />
+       d="m 93.960053,48.612487 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
+       id="path44508"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 100.59858,49.1219 c 0.6524,-0.3262 0.74774,-0.0879 0.74774,1.295122 0,1.383019 -0.74774,1.756891 -0.74774,1.756891"
-       id="path44510" />
+       d="m 94.77774,49.1219 c 0.652397,-0.3262 0.747737,-0.0879 0.747737,1.295122 0,1.383019 -0.747737,1.756891 -0.747737,1.756891"
+       id="path44510"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 101.39974,49.458026 c 0.57344,-0.409477 0.55062,-0.0583 0.55062,1.300266 0,1.358567 -0.55062,1.751748 -0.55062,1.751748"
-       id="path44512" />
+       d="m 95.578897,49.458026 c 0.573437,-0.409477 0.550617,-0.0583 0.550617,1.300266 0,1.358567 -0.550617,1.751748 -0.550617,1.751748"
+       id="path44512"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 102.57704,49.801662 c 0.24362,-0.362106 0.34049,-0.08675 0.34049,1.27073 0,1.357479 -0.37245,1.751828 -0.37245,1.751828"
-       id="path44514" />
+       d="m 96.756191,49.801662 c 0.243617,-0.362106 0.340487,-0.08675 0.340487,1.27073 0,1.357479 -0.372447,1.751828 -0.372447,1.751828"
+       id="path44514"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 103.55131,49.909657 c 0.14575,-0.328726 0.34417,-0.105484 0.34417,1.284481 0,1.389967 -0.35295,1.787329 -0.35295,1.787329"
-       id="path44516" />
+       d="m 97.730455,49.909657 c 0.14575,-0.328726 0.344167,-0.105484 0.344167,1.284481 0,1.389967 -0.352947,1.787329 -0.352947,1.787329"
+       id="path44516"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 110.74983,47.509801 c -0.79461,-0.07006 -0.8573,0.288626 -0.8573,1.484889 0,1.196263 0.8573,1.567122 0.8573,1.567122"
-       id="path44518" />
+       d="m 104.92896,47.509801 c -0.79461,-0.07006 -0.8573,0.288626 -0.8573,1.484889 0,1.196263 0.8573,1.567122 0.8573,1.567122"
+       id="path44518"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 110.38427,48.136893 c -0.72324,-0.149789 -0.84342,0.06984 -0.84342,1.460854 0,1.391013 0.84342,1.59116 0.84342,1.59116"
-       id="path44520" />
+       d="m 104.5634,48.136893 c -0.72324,-0.149789 -0.84342,0.06984 -0.84342,1.460854 0,1.391013 0.84342,1.59116 0.84342,1.59116"
+       id="path44520"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 109.90135,48.600734 c -0.64518,-0.205515 -0.72947,0.06808 -0.72947,1.415899 0,1.347822 0.72947,1.636115 0.72947,1.636115"
-       id="path44522" />
+       d="m 104.08048,48.600734 c -0.64518,-0.205515 -0.72947,0.06808 -0.72947,1.415899 0,1.347822 0.72947,1.636115 0.72947,1.636115"
+       id="path44522"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 109.08366,49.110147 c -0.6524,-0.3262 -0.74774,-0.0879 -0.74774,1.295122 0,1.383019 0.74774,1.756891 0.74774,1.756891"
-       id="path44524" />
+       d="m 103.26279,49.110147 c -0.6524,-0.3262 -0.74774,-0.0879 -0.74774,1.295122 0,1.383019 0.74774,1.756891 0.74774,1.756891"
+       id="path44524"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 108.2825,49.446273 c -0.57344,-0.409477 -0.55062,-0.0583 -0.55062,1.300266 0,1.358567 0.55062,1.751748 0.55062,1.751748"
-       id="path44526" />
+       d="m 102.46163,49.446273 c -0.57344,-0.409477 -0.55062,-0.0583 -0.55062,1.300266 0,1.358567 0.55062,1.751748 0.55062,1.751748"
+       id="path44526"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 107.1052,49.789909 c -0.24362,-0.362106 -0.34049,-0.08675 -0.34049,1.27073 0,1.357479 0.37245,1.751828 0.37245,1.751828"
-       id="path44528" />
+       d="m 101.28433,49.789909 c -0.24362,-0.362106 -0.34049,-0.08675 -0.34049,1.27073 0,1.357479 0.37245,1.751828 0.37245,1.751828"
+       id="path44528"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 106.13093,49.897904 c -0.14575,-0.328726 -0.34417,-0.105484 -0.34417,1.284481 0,1.389967 0.35295,1.787329 0.35295,1.787329"
-       id="path44530" />
+       d="m 100.31006,49.897904 c -0.14575,-0.328726 -0.344167,-0.105484 -0.344167,1.284481 0,1.389967 0.352947,1.787329 0.352947,1.787329"
+       id="path44530"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.104038;stop-color:#000000"
        id="ellipse44532"
-       cx="118.46494"
-       cy="101.17155"
+       cx="112.16447"
+       cy="98.760513"
        rx="1.1496871"
        ry="2.5500002"
-       transform="matrix(0.92387953,-0.38268343,0,1,0,0)" />
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.104038;stop-color:#000000"
        id="ellipse44534"
-       cx="118.32127"
-       cy="101.11656"
+       cx="112.0208"
+       cy="98.705528"
        rx="0.87944365"
        ry="1.625"
-       transform="matrix(0.92387953,-0.38268343,0,1,0,0)" />
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44536"
        style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 110.84099,50.025369 c -0.49608,-0.344704 -0.79426,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30402,-1.167455 0.79995,-1.512053 v -0.02791 l -11.999779,8e-6 v 0.02791 c 0.495931,0.344598 0.794094,0.908181 0.79995,1.512053 -6.5e-4,0.609542 -0.299405,1.180226 -0.79995,1.528072"
-       sodipodi:nodetypes="cccccccc" />
+       d="m 105.02012,50.025369 c -0.49608,-0.344704 -0.79426,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30402,-1.167455 0.79995,-1.512053 v -0.02791 l -11.999746,8e-6 v 0.02791 c 0.495931,0.344598 0.794094,0.908181 0.79995,1.512053 -6.5e-4,0.609542 -0.299405,1.180226 -0.79995,1.528072"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44538"
        style="fill:none;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 99.45622,45.637924 v 0.02791 c 0.495928,0.3446 0.79409,0.908183 0.79994,1.512053 -6.5e-4,0.609541 -0.299399,1.180224 -0.79994,1.528072 v 0.01188 h 10.76977 v -0.02739 c -0.49608,-0.344704 -0.79427,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30401,-1.167455 0.79995,-1.512053 v -0.02791 z"
-       sodipodi:nodetypes="ccccccccccc" />
+       d="m 93.635383,45.637924 v 0.02791 c 0.495928,0.3446 0.79409,0.908183 0.79994,1.512053 -6.5e-4,0.609541 -0.299399,1.180224 -0.79994,1.528072 v 0.01188 h 10.769737 v -0.02739 c -0.49608,-0.344704 -0.79427,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30401,-1.167455 0.79995,-1.512053 v -0.02791 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44540"
        style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
-       d="m 104.84114,44.000933 a 5.9998916,2.9999458 0 0 0 -5.846664,2.332157 h -0.15348 v 0.66766 a 5.9998916,2.9999458 0 0 0 6.000144,2.999818 5.9998916,2.9999458 0 0 0 5.99963,-2.999818 v -0.66766 h -0.15038 a 5.9998916,2.9999458 0 0 0 -5.84925,-2.332157 z" />
+       d="m 99.020276,44.000933 a 5.9998916,2.9999458 0 0 0 -5.846637,2.332157 h -0.15348 v 0.66766 a 5.9998916,2.9999458 0 0 0 6.000117,2.999818 5.9998916,2.9999458 0 0 0 5.999624,-2.999818 v -0.66766 h -0.15038 a 5.9998916,2.9999458 0 0 0 -5.849244,-2.332157 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44542"
        style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-       d="m 104.84114,43.332757 a 5.9998916,2.9999458 0 0 0 -5.079787,1.405599 h -0.29042 l -0.4067,0.784448 a 5.9998916,2.9999458 0 0 0 -0.002,0.0031 l -0.0584,0.112138 h 0.004 a 5.9998916,2.9999458 0 0 0 -0.16691,0.695048 5.9998916,2.9999458 0 0 0 6.000147,2.999818 5.9998916,2.9999458 0 0 0 5.99963,-2.999818 5.9998916,2.9999458 0 0 0 -0.16071,-0.690397 l -0.006,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.0589,-0.114205 l -0.40411,-0.778247 h -0.28784 a 5.9998916,2.9999458 0 0 0 -5.08186,-1.405599 z" />
+       d="m 99.020276,43.332757 a 5.9998916,2.9999458 0 0 0 -5.07976,1.405599 h -0.29042 l -0.4067,0.784448 a 5.9998916,2.9999458 0 0 0 -0.002,0.0031 l -0.0584,0.112138 h 0.004 a 5.9998916,2.9999458 0 0 0 -0.16691,0.695048 5.9998916,2.9999458 0 0 0 6.00012,2.999818 5.9998916,2.9999458 0 0 0 5.999624,-2.999818 5.9998916,2.9999458 0 0 0 -0.16071,-0.690397 l -0.006,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.0589,-0.114205 l -0.40411,-0.778247 h -0.28784 a 5.9998916,2.9999458 0 0 0 -5.081854,-1.405599 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
        id="ellipse44544"
-       cx="104.84114"
+       cx="99.020309"
        cy="45.332943"
        rx="5.4999995"
-       ry="2.7499998" />
+       ry="2.7499998"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="ellipse44546"
-       cx="104.84114"
+       cx="99.020309"
        cy="45.332943"
        rx="3.365"
-       ry="1.6825" />
+       ry="1.6825"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
        id="ellipse44548"
-       cx="104.84114"
+       cx="99.020309"
        cy="45.637917"
        rx="2.55"
-       ry="1.275" />
+       ry="1.275"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44550"
        style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 102.29091,45.638042 c 1.6e-4,0.704153 1.14193,1.274922 2.55023,1.274858 1.40831,6.4e-5 2.55008,-0.570705 2.55024,-1.274858"
-       sodipodi:nodetypes="ccc" />
+       d="m 96.470061,45.638042 c 1.6e-4,0.704153 1.141924,1.274922 2.550215,1.274858 1.408304,6.4e-5 2.550074,-0.570705 2.550234,-1.274858"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="path44696"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 98.840993,47.00075 c 1.4e-4,1.656825 2.686497,2.999889 6.000147,2.999818 3.31345,-7.2e-5 5.99949,-1.343095 5.99963,-2.999818"
-       sodipodi:nodetypes="csc" />
+       d="m 93.020156,47.00075 c 1.4e-4,1.656825 2.686491,2.999889 6.00012,2.999818 3.313444,-7.2e-5 5.999484,-1.343095 5.999624,-2.999818"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path42950-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 52.411505,56.850296 a 5.4999995,2.7499998 0 0 0 -5.368148,2.155423 h -0.0021 l -0.406691,0.78445 a 5.9998916,2.9999458 0 0 0 -0.0021,0.0031 l -0.05839,0.112136 h 0.0041 a 5.9998916,2.9999458 0 0 0 -0.166912,0.69505 v 0.667657 a 5.9998916,2.9999458 0 0 0 0.830439,1.520323 5.9998916,2.9999458 0 0 0 -0.168981,0.15141 c -0.01524,0.0113 -0.03035,0.02273 -0.04599,0.03359 v 0.01188 h 0.0031 a 5.9998916,2.9999458 0 0 0 -0.618567,1.322916 5.9998916,2.9999458 0 0 0 0.0011,0.01188 h -0.0011 v 7.489984 0.350363 c 0.05073,0.21593 0.147384,0.424207 0.284737,0.622703 0.02035,0.02889 0.416512,0.614431 0.416512,0.614434 h 0.0011 a 5.4999995,2.7499998 0 0 0 5.297868,2.012796 5.4999995,2.7499998 0 0 0 5.297869,-2.012796 h 0.0011 l 0.377238,-0.559142 c 0.158342,-0.214931 0.268567,-0.441986 0.324011,-0.677995 v -7.840347 h -0.0016 a 5.9998916,2.9999458 0 0 0 0.0011,-0.01188 5.9998916,2.9999458 0 0 0 -0.61495,-1.323432 v -0.02687 c -0.07559,-0.05252 -0.146325,-0.110535 -0.212389,-0.172598 A 5.9998916,2.9999458 0 0 0 58.4112,61.268109 v -0.667664 a 5.9998916,2.9999458 0 0 0 -0.160841,-0.690399 l -0.0062,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.05891,-0.114204 l -0.404112,-0.778248 a 5.4999995,2.7499998 0 0 0 -5.369641,-2.155418 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44496-6"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 52.4115,69.910482 a 5.4999995,2.7499998 0 0 0 -5.499918,2.749704 5.4999995,2.7499998 0 0 0 0.0088,0.124023 l -0.224274,-0.001 c 0.02035,0.02889 0.416512,0.614434 0.416512,0.614434 h 10e-4 a 5.4999995,2.7499998 0 0 0 5.29786,2.012796 5.4999995,2.7499998 0 0 0 5.29787,-2.012796 h 10e-4 l 0.37983,-0.562758 -0.19069,-0.001 a 5.4999995,2.7499998 0 0 0 0.0119,-0.173633 5.4999995,2.7499998 0 0 0 -5.49993,-2.749704 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44498-0"
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="m 46.411355,64.320125 v 7.489984 0.350364 0 c 0.354843,1.51044 2.958495,2.649153 6.000145,2.649968 3.04165,-7.93e-4 5.64531,-1.139528 6.00015,-2.649968 v 0 -7.840348 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
+       id="ellipse44500-7"
+       cx="52.411469"
+       cy="64.308243"
+       rx="5.9998918"
+       ry="2.9999459"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 52.4115,67.319944 v -3.05201"
+       id="path44502-2"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 46.50277,61.78892 c 0.79461,-0.07006 0.8573,0.288626 0.8573,1.484889 0,1.196264 -0.8573,1.567122 -0.8573,1.567122"
+       id="path44504-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 46.86833,62.416012 c 0.72324,-0.149789 0.84342,0.06984 0.84342,1.460854 0,1.391013 -0.84342,1.59116 -0.84342,1.59116"
+       id="path44506-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 47.35125,62.879853 c 0.64518,-0.205515 0.72947,0.06808 0.72947,1.415899 0,1.347822 -0.72947,1.636115 -0.72947,1.636115"
+       id="path44508-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 48.16894,63.389266 c 0.6524,-0.3262 0.74774,-0.0879 0.74774,1.295122 0,1.383019 -0.74774,1.756891 -0.74774,1.756891"
+       id="path44510-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 48.9701,63.725392 c 0.57344,-0.409477 0.55062,-0.0583 0.55062,1.300266 0,1.358567 -0.55062,1.751748 -0.55062,1.751748"
+       id="path44512-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 50.1474,64.069028 c 0.24362,-0.362106 0.34049,-0.08675 0.34049,1.27073 0,1.357479 -0.37245,1.751828 -0.37245,1.751828"
+       id="path44514-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 51.12167,64.177023 c 0.14575,-0.328726 0.34417,-0.105484 0.34417,1.284481 0,1.389967 -0.35295,1.787329 -0.35295,1.787329"
+       id="path44516-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 58.32019,61.777167 c -0.79461,-0.07006 -0.8573,0.288626 -0.8573,1.484889 0,1.196263 0.8573,1.567122 0.8573,1.567122"
+       id="path44518-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 57.95463,62.404259 c -0.72324,-0.149789 -0.84342,0.06984 -0.84342,1.460854 0,1.391013 0.84342,1.59116 0.84342,1.59116"
+       id="path44520-9"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 57.47171,62.8681 c -0.64518,-0.205515 -0.72947,0.06808 -0.72947,1.415899 0,1.347822 0.72947,1.636115 0.72947,1.636115"
+       id="path44522-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 56.65402,63.377513 c -0.6524,-0.3262 -0.74774,-0.0879 -0.74774,1.295122 0,1.383019 0.74774,1.756891 0.74774,1.756891"
+       id="path44524-3"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 55.85286,63.713639 c -0.57344,-0.409477 -0.55062,-0.0583 -0.55062,1.300266 0,1.358567 0.55062,1.751748 0.55062,1.751748"
+       id="path44526-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 54.67556,64.057275 c -0.24362,-0.362106 -0.34049,-0.08675 -0.34049,1.27073 0,1.357479 0.37245,1.751828 0.37245,1.751828"
+       id="path44528-0"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 53.70129,64.16527 c -0.14575,-0.328726 -0.34417,-0.105484 -0.34417,1.284481 0,1.389967 0.35295,1.787329 0.35295,1.787329"
+       id="path44530-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.104038;stop-color:#000000"
+       id="ellipse44532-3"
+       cx="61.715508"
+       cy="93.721832"
+       rx="1.1496871"
+       ry="2.5500002"
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.104038;stop-color:#000000"
+       id="ellipse44534-2"
+       cx="61.571838"
+       cy="93.666847"
+       rx="0.87944365"
+       ry="1.625"
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44536-4"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 58.41135,64.292735 c -0.49608,-0.344704 -0.79426,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30402,-1.167455 0.79995,-1.512053 v -0.02791 l -11.999779,8e-6 v 0.02791 c 0.495931,0.344598 0.794094,0.908181 0.79995,1.512053 -6.5e-4,0.609542 -0.299405,1.180226 -0.79995,1.528072"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44538-5"
+       style="fill:none;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="m 47.02658,59.90529 v 0.02791 c 0.495928,0.3446 0.79409,0.908183 0.79994,1.512053 -6.5e-4,0.609541 -0.299399,1.180224 -0.79994,1.528072 v 0.01188 h 10.76977 v -0.02739 c -0.49608,-0.344704 -0.79427,-0.908515 -0.79995,-1.51257 0.006,-0.603872 0.30401,-1.167455 0.79995,-1.512053 v -0.02791 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44540-3"
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+       d="m 52.4115,58.268299 a 5.9998916,2.9999458 0 0 0 -5.846664,2.332157 h -0.15348 v 0.66766 a 5.9998916,2.9999458 0 0 0 6.000144,2.999818 5.9998916,2.9999458 0 0 0 5.99963,-2.999818 v -0.66766 H 58.26075 A 5.9998916,2.9999458 0 0 0 52.4115,58.268299 Z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44542-4"
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 52.4115,57.600123 a 5.9998916,2.9999458 0 0 0 -5.079787,1.405599 h -0.29042 l -0.4067,0.784448 a 5.9998916,2.9999458 0 0 0 -0.002,0.0031 l -0.0584,0.112138 h 0.004 a 5.9998916,2.9999458 0 0 0 -0.16691,0.695048 5.9998916,2.9999458 0 0 0 6.000147,2.999818 5.9998916,2.9999458 0 0 0 5.99963,-2.999818 5.9998916,2.9999458 0 0 0 -0.16071,-0.690397 l -0.006,-0.01188 a 5.9998916,2.9999458 0 0 0 -0.0589,-0.114205 L 57.78134,59.005727 H 57.4935 a 5.9998916,2.9999458 0 0 0 -5.08186,-1.405599 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
+       id="ellipse44544-4"
+       cx="52.411507"
+       cy="59.600307"
+       rx="5.4999995"
+       ry="2.7499998"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="ellipse44546-0"
+       cx="52.411507"
+       cy="59.600307"
+       rx="3.365"
+       ry="1.6825"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.0999997;stop-color:#000000"
+       id="ellipse44548-5"
+       cx="52.411507"
+       cy="59.905281"
+       rx="2.55"
+       ry="1.275"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44550-2"
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 49.86127,59.905408 c 1.6e-4,0.704153 1.14193,1.274922 2.55023,1.274858 1.40831,6.4e-5 2.55008,-0.570705 2.55024,-1.274858"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path44696-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 46.411353,61.268116 c 1.4e-4,1.656825 2.686497,2.999889 6.000147,2.999818 3.31345,-7.2e-5 5.99949,-1.343095 5.99963,-2.999818"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect1500"
+       style="fill:none;stroke:#000000;stroke-width:0.377953;stop-color:#000000"
+       d="m 239.85547,166.79688 v 124.6875 H 99.525391 v -124.6875 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="26.448515"
+       y="47.794498"
+       id="text3204"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3202"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="26.448515"
+         y="47.794498">Extrusion Gear</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="30.24398"
+       y="52.540123"
+       id="text8479"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8477"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="30.24398"
+         y="52.540123">MTMTool MK8</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="30.24398"
+         y="55.400303"
+         id="tspan19823">5mm Bore</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="30.24398"
+         y="58.260487"
+         id="tspan14951">Concave</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="M 27.391093,48.815627 H 61.449482"
+       id="path20070"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1242-0-8-6"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 116.76673,69.380198 c 0,8.500013 5.00021,8.500263 5.00021,8.500263 h 19.35902 3.28146 19.3595 c 0,0 4.99969,-2.5e-4 4.99969,-8.500263 h -24.35919 -3.28146 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.15590024px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.08152401"
+       x="146.4216"
+       y="74.752449"
+       id="text3821-63-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan3819-4-8-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08152401"
+         x="146.4216"
+         y="74.752449">Extrusion Gears</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-4-6-8"
+       width="40"
+       height="20"
+       x="75.17923"
+       y="69.380196"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.34793997px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.08152401"
+       x="96.598938"
+       y="73.493576"
+       id="text8073-9-1-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08152401"
+         x="96.598938"
+         y="73.493576"
+         id="tspan211604">Extrusion</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08152401"
+         x="96.598938"
+         y="77.841515"
+         id="tspan5100">Gears</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path42950-2-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.837831,79.38319 a 2.7109429,1.3554714 0 0 0 -2.64596,1.062406 h -9.8e-4 l -0.20046,0.386654 a 2.9573391,1.4786695 0 0 0 -0.001,0.0015 l -0.0288,0.05527 h 0.002 a 2.9573391,1.4786695 0 0 0 -0.0823,0.342589 v 0.329087 a 2.9573391,1.4786695 0 0 0 0.40933,0.749366 2.9573391,1.4786695 0 0 0 -0.0833,0.07463 c -0.008,0.0056 -0.0149,0.0112 -0.0227,0.01656 v 0.0059 h 0.001 a 2.9573391,1.4786695 0 0 0 -0.30489,0.652064 2.9573391,1.4786695 0 0 0 5.4e-4,0.0059 h -5.4e-4 v 3.691802 0.17269 c 0.025,0.10643 0.0726,0.2091 0.14035,0.30693 0.01,0.0143 0.20529,0.30285 0.20529,0.30286 h 5e-4 a 2.7109429,1.3554714 0 0 0 2.61131,0.9921 2.7109429,1.3554714 0 0 0 2.61131,-0.99211 h 5e-4 l 0.18594,-0.2756 c 0.078,-0.10594 0.13237,-0.21785 0.1597,-0.33418 v -3.864492 h -9.8e-4 a 2.9573391,1.4786695 0 0 0 4.9e-4,-0.0059 2.9573391,1.4786695 0 0 0 -0.30311,-0.652318 v -0.01324 c -0.0373,-0.02589 -0.0721,-0.05448 -0.10469,-0.08507 a 2.9573391,1.4786695 0 0 0 0.40781,-0.747837 V 81.23166 a 2.9573391,1.4786695 0 0 0 -0.0793,-0.340297 l -0.003,-0.0059 a 2.9573391,1.4786695 0 0 0 -0.029,-0.05629 l -0.19919,-0.383598 a 2.7109429,1.3554714 0 0 0 -2.64669,-1.062403 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44496-6-8"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 96.837831,85.820538 a 2.7109429,1.3554714 0 0 0 -2.71091,1.35533 2.7109429,1.3554714 0 0 0 0.004,0.0611 l -0.11055,-4.9e-4 c 0.01,0.0142 0.2053,0.30285 0.2053,0.30285 h 5e-4 a 2.7109429,1.3554714 0 0 0 2.6113,0.9921 2.7109429,1.3554714 0 0 0 2.61132,-0.9921 h 4.9e-4 l 0.18722,-0.27739 -0.094,-4.9e-4 a 2.7109429,1.3554714 0 0 0 0.006,-0.0856 2.7109429,1.3554714 0 0 0 -2.71091,-1.35532 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44498-0-1"
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1"
+       d="m 93.880361,83.06506 v 3.691808 0.17269 0 c 0.1749,0.74449 1.45824,1.30577 2.95747,1.30616 1.49922,-3.8e-4 2.78256,-0.56167 2.95746,-1.30616 v 0 -3.864498 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.09999971"
+       id="ellipse44500-7-3"
+       cx="96.837814"
+       cy="83.059204"
+       rx="2.957339"
+       ry="1.4786695"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.837831,84.543665 v -1.50433"
+       id="path44502-2-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 93.925421,81.817432 c 0.39166,-0.03453 0.42256,0.142263 0.42256,0.7319 0,0.589637 -0.42256,0.772432 -0.42256,0.772432"
+       id="path44504-5-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.105601,82.126525 c 0.35649,-0.07383 0.41572,0.03442 0.41572,0.720053 0,0.685628 -0.41572,0.784281 -0.41572,0.784281"
+       id="path44506-4-7"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.343631,82.355151 c 0.31801,-0.101298 0.35956,0.03356 0.35956,0.697895 0,0.66434 -0.35956,0.806439 -0.35956,0.806439"
+       id="path44508-6-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.746671,82.60624 c 0.32157,-0.160783 0.36856,-0.04332 0.36856,0.638364 0,0.681689 -0.36856,0.86597 -0.36856,0.86597"
+       id="path44510-5-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.141561,82.771916 c 0.28265,-0.20183 0.2714,-0.02874 0.2714,0.6409 0,0.669636 -0.2714,0.863434 -0.2714,0.863434"
+       id="path44512-6-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.721851,82.941294 c 0.12008,-0.178481 0.16783,-0.04276 0.16783,0.626341 0,0.6691 -0.18358,0.863474 -0.18358,0.863474"
+       id="path44514-6-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.202071,82.994525 c 0.0718,-0.162029 0.16964,-0.05199 0.16964,0.633119 0,0.685113 -0.17397,0.880972 -0.17397,0.880972"
+       id="path44516-5-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.750211,81.811639 c -0.39166,-0.03453 -0.42256,0.142263 -0.42256,0.7319 0,0.589636 0.42256,0.772432 0.42256,0.772432"
+       id="path44518-6-2"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.570031,82.120732 c -0.35649,-0.07383 -0.41572,0.03442 -0.41572,0.720053 0,0.685628 0.41572,0.784281 0.41572,0.784281"
+       id="path44520-9-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.332001,82.349358 c -0.31801,-0.101298 -0.35956,0.03356 -0.35956,0.697895 0,0.66434 0.35956,0.806439 0.35956,0.806439"
+       id="path44522-5-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.928961,82.600447 c -0.32157,-0.160783 -0.36856,-0.04332 -0.36856,0.638364 0,0.681689 0.36856,0.86597 0.36856,0.86597"
+       id="path44524-3-8"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.534071,82.766123 c -0.28265,-0.20183 -0.2714,-0.02874 -0.2714,0.6409 0,0.669636 0.2714,0.863434 0.2714,0.863434"
+       id="path44526-4-7"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.953781,82.935501 c -0.12008,-0.178481 -0.16783,-0.04276 -0.16783,0.626341 0,0.6691 0.18358,0.863474 0.18358,0.863474"
+       id="path44528-0-7"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.473561,82.988732 c -0.0718,-0.162029 -0.16964,-0.05199 -0.16964,0.633119 0,0.685113 0.17397,0.880972 0.17397,0.880972"
+       id="path44530-1-3"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.104038"
+       id="ellipse44532-3-4"
+       cx="107.27396"
+       cy="126.96806"
+       rx="0.5666793"
+       ry="1.2568918"
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.104038"
+       id="ellipse44534-2-4"
+       cx="107.20315"
+       cy="126.94096"
+       rx="0.43347666"
+       ry="0.80096048"
+       transform="matrix(0.92387953,-0.38268343,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44536-4-1"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.795141,83.051559 c -0.24451,-0.169904 -0.39149,-0.447806 -0.39429,-0.745544 0.003,-0.297648 0.14985,-0.575437 0.39429,-0.745289 v -0.01376 l -5.91467,4e-6 v 0.01376 c 0.24444,0.169852 0.3914,0.447641 0.39429,0.745289 -3.2e-4,0.300443 -0.14758,0.581732 -0.39429,0.753185"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44538-5-0"
+       style="fill:none;stroke:none;stroke-width:0.1"
+       d="m 94.183601,80.888993 v 0.01376 c 0.24445,0.169853 0.39141,0.447642 0.39429,0.745289 -3.2e-4,0.300442 -0.14757,0.581731 -0.39429,0.753185 v 0.0059 h 5.30841 v -0.0135 c -0.24452,-0.169904 -0.39149,-0.447806 -0.39429,-0.745544 0.003,-0.297648 0.14984,-0.575437 0.39429,-0.745289 v -0.01376 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44540-3-3"
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1"
+       d="m 96.837831,80.082122 a 2.9573391,1.4786695 0 0 0 -2.88182,1.149517 h -0.0757 v 0.329089 a 2.9573391,1.4786695 0 0 0 2.95747,1.478607 2.9573391,1.4786695 0 0 0 2.95721,-1.478607 v -0.329089 h -0.0741 a 2.9573391,1.4786695 0 0 0 -2.88308,-1.149517 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44542-4-3"
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 96.837831,79.752779 a 2.9573391,1.4786695 0 0 0 -2.50383,0.692818 h -0.14314 l -0.20047,0.386653 a 2.9573391,1.4786695 0 0 0 -9.8e-4,0.0015 l -0.0288,0.05527 h 0.002 a 2.9573391,1.4786695 0 0 0 -0.0823,0.342588 2.9573391,1.4786695 0 0 0 2.95747,1.478607 2.9573391,1.4786695 0 0 0 2.95721,-1.478607 2.9573391,1.4786695 0 0 0 -0.0792,-0.340295 l -0.003,-0.0059 a 2.9573391,1.4786695 0 0 0 -0.029,-0.05629 l -0.19919,-0.383596 h -0.14187 a 2.9573391,1.4786695 0 0 0 -2.50485,-0.692818 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.09999971"
+       id="ellipse44544-4-5"
+       cx="96.837837"
+       cy="80.738663"
+       rx="2.7109427"
+       ry="1.3554714"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse44546-0-3"
+       cx="96.837837"
+       cy="80.738663"
+       rx="1.6586043"
+       ry="0.82930213"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.09999971"
+       id="ellipse44548-5-5"
+       cx="96.837837"
+       cy="80.888985"
+       rx="1.2568917"
+       ry="0.62844586"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44550-2-9"
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.580821,80.889051 c 8e-5,0.347076 0.56286,0.628408 1.25701,0.628376 0.69415,3.2e-5 1.25693,-0.2813 1.25701,-0.628376"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44696-8-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 93.880361,81.560728 c 7e-5,0.816647 1.32417,1.478642 2.95747,1.478607 1.63319,-3.6e-5 2.95714,-0.66201 2.95721,-1.478607"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path42950-2-8-3"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.13385,70.516928 a 1.8645077,0.93225376 0 0 0 -1.81981,0.730692 h -6.8e-4 l -0.13787,0.265929 a 2.0339718,1.0169858 0 0 0 -6.9e-4,0.001 l -0.0197,0.03801 h 10e-4 a 2.0339718,1.0169858 0 0 0 -0.0566,0.235624 v 0.226336 a 2.0339718,1.0169858 0 0 0 0.28152,0.515392 2.0339718,1.0169858 0 0 0 -0.0573,0.05133 c -0.005,0.0039 -0.0104,0.0077 -0.0156,0.01143 v 0.004 h 6.9e-4 a 2.0339718,1.0169858 0 0 0 -0.20969,0.448471 2.0339718,1.0169858 0 0 0 3.7e-4,0.004 h -3.7e-4 v 2.539113 0.118768 c 0.0171,0.0732 0.0499,0.143811 0.0965,0.211097 0.006,0.0099 0.14119,0.208291 0.14119,0.208299 h 3.4e-4 a 1.8645077,0.93225376 0 0 0 1.79599,0.682337 1.8645077,0.93225376 0 0 0 1.79598,-0.682345 h 3.5e-4 l 0.12791,-0.18955 c 0.0536,-0.07286 0.091,-0.149831 0.10986,-0.229838 v -2.657806 h -6.8e-4 a 2.0339718,1.0169858 0 0 0 3.4e-4,-0.004 2.0339718,1.0169858 0 0 0 -0.20846,-0.448645 v -0.0091 c -0.0257,-0.0178 -0.0496,-0.03746 -0.0719,-0.05851 a 2.0339718,1.0169858 0 0 0 0.28048,-0.51434 v -0.226338 a 2.0339718,1.0169858 0 0 0 -0.0545,-0.234047 l -0.003,-0.004 a 2.0339718,1.0169858 0 0 0 -0.02,-0.03871 l -0.137,-0.263827 a 1.8645077,0.93225376 0 0 0 -1.82031,-0.730691 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44496-6-8-6"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 124.13385,74.944349 a 1.8645077,0.93225376 0 0 0 -1.86449,0.932156 1.8645077,0.93225376 0 0 0 0.003,0.04202 l -0.076,-3.46e-4 c 0.007,0.0097 0.1412,0.208291 0.1412,0.208291 h 3.5e-4 a 1.8645077,0.93225376 0 0 0 1.79598,0.682339 1.8645077,0.93225376 0 0 0 1.79599,-0.682339 h 3.3e-4 l 0.12882,-0.190779 -0.0647,-3.47e-4 a 1.8645077,0.93225376 0 0 0 0.004,-0.05888 1.8645077,0.93225376 0 0 0 -1.86448,-0.93215 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44498-0-1-7"
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1"
+       d="m 122.09978,73.04921 v 2.539119 0.118767 0 c 0.12025,0.512038 1.00294,0.89807 2.03407,0.898339 1.03112,-2.56e-4 1.91376,-0.386301 2.03406,-0.898339 v 0 -2.65789 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.09999971"
+       id="ellipse44500-7-3-1"
+       cx="124.13383"
+       cy="73.045189"
+       rx="2.0339715"
+       ry="1.0169858"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#969696;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 124.13385,74.066152 V 73.031517"
+       id="path44502-2-4-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.13078,72.191128 c 0.26938,-0.02375 0.29062,0.09785 0.29062,0.503379 0,0.405536 -0.29062,0.531257 -0.29062,0.531257"
+       id="path44504-5-6-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.2547,72.403714 c 0.24519,-0.05078 0.28592,0.02367 0.28592,0.495231 0,0.471555 -0.28592,0.539406 -0.28592,0.539406"
+       id="path44506-4-7-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.41841,72.560955 c 0.21872,-0.06967 0.2473,0.02309 0.2473,0.479992 0,0.456915 -0.2473,0.554645 -0.2473,0.554645"
+       id="path44508-6-4-0"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.69561,72.733647 c 0.22117,-0.110586 0.25349,-0.02979 0.25349,0.439048 0,0.468846 -0.25349,0.595589 -0.25349,0.595589"
+       id="path44510-5-5-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.9672,72.847594 c 0.1944,-0.138812 0.18667,-0.01976 0.18667,0.440792 0,0.460557 -0.18667,0.593845 -0.18667,0.593845"
+       id="path44512-6-1-8"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.36631,72.964088 c 0.0826,-0.122754 0.11544,-0.02941 0.11544,0.430779 0,0.460188 -0.12622,0.593872 -0.12622,0.593872"
+       id="path44514-6-4-5"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.6966,73.000698 c 0.0493,-0.111443 0.11661,-0.03576 0.11661,0.435441 0,0.471201 -0.1196,0.605906 -0.1196,0.605906"
+       id="path44516-5-5-3"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.1369,72.187144 c -0.26938,-0.02375 -0.29062,0.09785 -0.29062,0.50338 0,0.405534 0.29062,0.531256 0.29062,0.531256"
+       id="path44518-6-2-9"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.01298,72.39973 c -0.24519,-0.05078 -0.28592,0.02367 -0.28592,0.495231 0,0.471554 0.28592,0.539406 0.28592,0.539406"
+       id="path44520-9-1-2"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.84927,72.556971 c -0.21872,-0.06967 -0.24729,0.02309 -0.24729,0.479992 0,0.456913 0.24729,0.554645 0.24729,0.554645"
+       id="path44522-5-6-2"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.57207,72.729663 c -0.22117,-0.110586 -0.25349,-0.02979 -0.25349,0.439047 0,0.468847 0.25349,0.59559 0.25349,0.59559"
+       id="path44524-3-8-4"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.30048,72.84361 c -0.1944,-0.138812 -0.18666,-0.01976 -0.18666,0.440792 0,0.460557 0.18666,0.593845 0.18666,0.593845"
+       id="path44526-4-7-3"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.90137,72.960104 c -0.0826,-0.122754 -0.11544,-0.02941 -0.11544,0.430779 0,0.460188 0.12622,0.593872 0.12622,0.593872"
+       id="path44528-0-7-6"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.0499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.57108,72.996714 c -0.0493,-0.111443 -0.11661,-0.03576 -0.11661,0.435441 0,0.471201 0.1196,0.605907 0.1196,0.605907"
+       id="path44530-1-3-1"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.104038"
+       id="ellipse44532-3-4-4"
+       cx="136.05167"
+       cy="127.07478"
+       rx="0.3897455"
+       ry="0.86445361"
+       transform="matrix(0.92387953,-0.38268344,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.104038"
+       id="ellipse44534-2-4-5"
+       cx="136.00296"
+       cy="127.05617"
+       rx="0.29813263"
+       ry="0.55087727"
+       transform="matrix(0.92387953,-0.38268344,0,1,0,0)"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44536-4-1-2"
+       style="fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.16781,73.039924 c -0.16817,-0.116858 -0.26926,-0.307987 -0.27118,-0.512763 0.003,-0.204715 0.1031,-0.395768 0.27118,-0.512588 v -0.0095 l -4.06795,2e-6 v 0.0095 c 0.16813,0.116819 0.2692,0.307874 0.27118,0.512588 -2.2e-4,0.206636 -0.10155,0.400097 -0.27118,0.518019"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44538-5-0-2"
+       style="fill:none;stroke:none;stroke-width:0.1"
+       d="m 122.30835,71.552575 v 0.0095 c 0.16812,0.116819 0.2692,0.307874 0.27118,0.512588 -2.2e-4,0.206635 -0.10155,0.400097 -0.27118,0.518018 v 0.004 h 3.65097 v -0.0092 c -0.16818,-0.116859 -0.26926,-0.307989 -0.27118,-0.512763 0.003,-0.204715 0.10311,-0.39577 0.27118,-0.51259 v -0.0095 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44540-3-3-8"
+       style="fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.1"
+       d="m 124.13385,70.997633 a 2.0339718,1.0169858 0 0 0 -1.98203,0.790604 h -0.0521 v 0.226338 a 2.0339718,1.0169858 0 0 0 2.03406,1.016942 2.0339718,1.0169858 0 0 0 2.03389,-1.016942 v -0.226338 h -0.051 a 2.0339718,1.0169858 0 0 0 -1.9829,-0.790604 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44542-4-3-7"
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 124.13385,70.771121 a 2.0339718,1.0169858 0 0 0 -1.72206,0.476499 h -0.0984 l -0.13788,0.265929 a 2.0339718,1.0169858 0 0 0 -6.8e-4,0.001 l -0.0197,0.03801 h 0.001 a 2.0339718,1.0169858 0 0 0 -0.0566,0.235622 2.0339718,1.0169858 0 0 0 2.03406,1.016943 2.0339718,1.0169858 0 0 0 2.03389,-1.016943 2.0339718,1.0169858 0 0 0 -0.0545,-0.234044 l -0.003,-0.004 a 2.0339718,1.0169858 0 0 0 -0.02,-0.03871 l -0.13699,-0.263825 h -0.0975 a 2.0339718,1.0169858 0 0 0 -1.72215,-0.476535 z"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.09999971"
+       id="ellipse44544-4-5-5"
+       cx="124.13387"
+       cy="71.449188"
+       rx="1.8645074"
+       ry="0.93225372"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse44546-0-3-1"
+       cx="124.13387"
+       cy="71.449188"
+       rx="1.1407397"
+       ry="0.57036984"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.09999971"
+       id="ellipse44548-5-5-7"
+       cx="124.13387"
+       cy="71.552567"
+       rx="0.86445355"
+       ry="0.43222678"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44550-2-9-6"
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.26932,71.552615 c 5e-5,0.238709 0.38711,0.4322 0.86453,0.432178 0.47742,2.2e-5 0.86448,-0.193469 0.86454,-0.432178"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44696-8-4-3"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.09978,72.014575 c 6e-5,0.561666 0.91073,1.016967 2.03407,1.016942 1.12327,-2.4e-5 2.03384,-0.45531 2.03388,-1.016942"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\Reavenk\Desktop\ExtrusionGear"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>

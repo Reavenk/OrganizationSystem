@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="154.85638"
-     inkscape:cy="415.77879"
+     inkscape:zoom="2"
+     inkscape:cx="562.5"
+     inkscape:cy="739.5"
      inkscape:window-width="2560"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -59,6 +59,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       id="path21809-9-5"
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       d="m 179.77555,164.63994 v 3.00034 a 4.5,2.25 0 0 0 4.49998,2.24999 4.5,2.25 0 0 0 4.49999,-2.24999 v -3.00034 z" />
     <circle
        style="fill:#787878;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="circle2800-1"
@@ -919,6 +923,51 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0663242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 99.934764,92.058263 c -1.5e-4,0.36633 0.593726,0.66334 1.326416,0.66337 0.7328,7e-5 1.32688,-0.29698 1.32674,-0.66337"
        sodipodi:nodetypes="ccc" />
+    <path
+       id="path1242-0-8-5"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 80.524284,100.57319 c 0,8.50001 5.00021,8.50026 5.00021,8.50026 h 19.359026 3.28146 19.3595 c 0,0 4.9997,-2.5e-4 4.9997,-8.50026 h -24.3592 -3.28146 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.34794px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="111.20229"
+       y="106.38808"
+       id="text3821-63-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan3819-4-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="111.20229"
+         y="106.38808">MR Ball Bearings</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect846-4-6-8-3"
+       width="40"
+       height="20"
+       x="80.524284"
+       y="110.66093"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.34794px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="100.88565"
+       y="116.89096"
+       id="text8073-9-1-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan8071-62-9-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="100.88565"
+         y="116.89096">MR Ball Bearings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.24151px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0607786"
+       x="101.41753"
+       y="120.19292"
+       id="text8160-9-1-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan8158-2-1-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="101.41753"
+         y="120.19292">Miniature Rollers</tspan></text>
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path984"
@@ -1435,14 +1484,14 @@
        transform="translate(-0.39401533,-17.287383)"><tspan
          x="49.0877"
          y="111.08964"
-         id="tspan10655"><tspan
+         id="tspan34684"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10653">ZZ: Double sided metalic </tspan></tspan><tspan
+           id="tspan34682">ZZ: Double sided metalic </tspan></tspan><tspan
          x="49.0877"
          y="113.2063"
-         id="tspan10659"><tspan
+         id="tspan34688"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10657">shields.
+           id="tspan34686">shields.
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -1453,14 +1502,14 @@
        transform="translate(-0.39401578,28.980595)"><tspan
          x="49.0877"
          y="111.08964"
-         id="tspan10663"><tspan
+         id="tspan34692"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10661">2RS: Double sided rubber </tspan></tspan><tspan
+           id="tspan34690">2RS: Double sided rubber </tspan></tspan><tspan
          x="49.0877"
          y="113.2063"
-         id="tspan10667"><tspan
+         id="tspan34696"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10665">shields.
+           id="tspan34694">shields.
 </tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
@@ -1479,11 +1528,11 @@
        transform="translate(38.565746,-58.306031)"><tspan
          x="49.0877"
          y="111.08964"
-         id="tspan10673"><tspan
+         id="tspan34702"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10669">ZZ: Double sided metal </tspan><tspan
+           id="tspan34698">ZZ: Double sided metal </tspan><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10671">shields.
+           id="tspan34700">shields.
 </tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
@@ -1519,6 +1568,78 @@
          x="102.07182"
          y="31.268932"
          id="tspan70423" /></text>
+    <path
+       style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 167.52904,216.11057 h 4.2095 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7" />
+    <path
+       id="rect67030-6-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 138.6179,215.58116 v 24.00422 h 33.64962 v -24.00422 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:0;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="149.97112"
+       y="228.23799"
+       id="text29255-4-2-8-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.97112"
+         y="228.23799"
+         id="tspan25149-4">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.97112"
+         y="231.06021"
+         id="tspan18178-3-00"><tspan
+   style="font-weight:bold;font-size:2.82222px;line-height:1"
+   id="tspan5381">2.45</tspan>x<tspan
+   style="font-weight:bold;font-size:2.82222px;line-height:1"
+   id="tspan5385">5</tspan>x<tspan
+   style="font-weight:bold;font-size:2.82222px;line-height:1"
+   id="tspan5383">2</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.97112"
+         y="232.66708"
+         id="tspan14090-3-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15"
+       transform="translate(91.25418,127.1511)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34708"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan34704">ZZ: Double sided metal </tspan><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan34706">shields.
+</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 140.19925,235.71973 h 29.80208"
+       id="path43561-2-4-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="149.99774"
+       y="221.28795"
+       id="text70425-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.99774"
+         y="221.28795"
+         id="tspan70411-49">MR52-ZZ</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.99774"
+         y="225.67473"
+         id="tspan70423-7" /></text>
     <path
        style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m 167.01145,21.657582 h 4.20951 v 4.2095 z"
@@ -1565,11 +1686,11 @@
        transform="translate(80.153248,-54.072699)"><tspan
          x="49.0877"
          y="111.08964"
-         id="tspan10679"><tspan
+         id="tspan34714"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10675">ZZ: Double sided metal </tspan><tspan
+           id="tspan34710">ZZ: Double sided metal </tspan><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan10677">shields.
+           id="tspan34712">shields.
 </tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
@@ -2022,5 +2143,1087 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
          x="92.778038"
          y="208.19737">688</tspan></text>
+    <ellipse
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path656-4"
+       cx="144.33411"
+       cy="227.34477"
+       rx="2.5"
+       ry="1.25" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318"
+       width="5.0000076"
+       height="2.45"
+       x="141.83411"
+       y="224.89478" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5"
+       width="5.0000076"
+       height="2.45"
+       x="141.83405"
+       y="230.18248" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719"
+       cx="144.33411"
+       cy="220.08646"
+       r="2.5" />
+    <circle
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8"
+       cx="144.33411"
+       cy="220.08646"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0"
+       cx="144.33411"
+       cy="220.08646"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-1"
+       cx="144.33411"
+       cy="220.08646"
+       r="2" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-7"
+       cx="144.33411"
+       cy="224.89478"
+       rx="2.5"
+       ry="1.25" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-8"
+       cx="144.33411"
+       cy="224.79355"
+       rx="1"
+       ry="0.5" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-9"
+       cx="144.33411"
+       cy="224.79355"
+       rx="1.5"
+       ry="0.75" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-1-0"
+       cx="144.33411"
+       cy="224.89478"
+       rx="2"
+       ry="1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 167.52905,254.40225 h 4.2095 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7-9" />
+    <path
+       id="rect67030-6-0-5"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 132.2679,253.87288 v 30.35422 h 39.99962 v -30.35422 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="148.41026"
+       y="264.87125"
+       id="text29255-4-2-8-0-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="148.41026"
+         y="264.87125"
+         id="tspan25149-4-3">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="148.41026"
+         y="269.25803"
+         id="tspan18178-3-00-7"><tspan
+   style="font-weight:bold"
+   id="tspan28843-3-0">4</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan28845-56-4">11</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan28847-3-4">5</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="148.41026"
+         y="273.64481"
+         id="tspan14090-3-8-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15-5"
+       transform="translate(84.904183,171.79279)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34718"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan34716">RS: Rubber Shielding.</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 133.84926,280.36142 h 36.15208"
+       id="path43561-2-4-0-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="148.41026"
+       y="259.57962"
+       id="text70425-1-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="148.41026"
+         y="259.57962"
+         id="tspan70411-49-9">MR115-RS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="148.41026"
+         y="263.9664"
+         id="tspan70423-7-1" /></text>
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path2053"
+       cx="140.51715"
+       cy="261.98721"
+       r="5.5" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle2142"
+       cx="140.51715"
+       cy="261.98721"
+       r="5" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle2144"
+       cx="140.51715"
+       cy="261.98721"
+       r="3.5" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path2053-2"
+       cx="140.51715"
+       cy="261.98721"
+       r="2.5" />
+    <ellipse
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path2053-3-4"
+       cx="140.51715"
+       cy="275.76605"
+       rx="5.5"
+       ry="2.75" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect2146"
+       width="11.000015"
+       height="4"
+       x="135.01715"
+       y="271.76605" />
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect2146-0"
+       width="11.000015"
+       height="4"
+       x="147.60338"
+       y="271.76605" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path2053-3"
+       cx="140.51717"
+       cy="271.76605"
+       rx="5.5"
+       ry="2.75" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle2142-1"
+       cx="140.51717"
+       cy="271.76605"
+       rx="5"
+       ry="2.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle2144-5"
+       cx="140.51717"
+       cy="271.76605"
+       rx="3.5"
+       ry="1.75" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path2053-2-3"
+       cx="140.51717"
+       cy="271.76605"
+       rx="2.5"
+       ry="1.25" />
+    <path
+       id="ellipse3237"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 140.51723,269.01595 a 5.5,2.75 0 0 0 -5.49992,2.75022 v 3.99976 a 5.5,2.75 0 0 0 5.49992,2.75022 5.5,2.75 0 0 0 5.49992,-2.75022 v -3.99976 a 5.5,2.75 0 0 0 -5.49992,-2.75022 z" />
+    <path
+       id="ellipse4070"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 138.01742,271.76584 c -6e-5,0.69029 1.11899,1.24993 2.49958,1.25005 1.38079,3e-5 2.50017,-0.55965 2.50011,-1.25005"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="ellipse5319"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 144.33406,223.64491 a 2.5,1.25 0 0 0 -2.49959,1.25005 v 2.44998 a 2.5,1.25 0 0 0 2.49959,1.25006 2.5,1.25 0 0 0 2.50011,-1.25006 v -2.44998 a 2.5,1.25 0 0 0 -2.50011,-1.25005 z" />
+    <path
+       id="ellipse5326"
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       d="m 146.33446,224.9453 c -7e-5,-0.55234 -0.89572,-1.00005 -2.0004,-0.99994 -1.10448,3e-5 -1.99981,0.4477 -1.99988,0.99994"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="ellipse5378"
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       d="m 142.83441,224.86383 c 1.9e-4,0.41408 0.67149,0.74973 1.49965,0.74983 0.82836,5e-5 1.49998,-0.33565 1.50017,-0.74983"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 167.52904,184.16885 h 4.2095 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7-8" />
+    <path
+       id="rect67030-6-0-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 138.6179,183.63944 v 24.00422 h 33.64962 v -24.00422 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:0;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="149.8308"
+       y="196.79794"
+       id="text29255-4-2-8-0-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.8308"
+         y="196.79794"
+         id="tspan25149-4-0">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.8308"
+         y="199.62016"
+         id="tspan18178-3-00-0"><tspan
+   style="font-weight:bold;font-size:2.82222px;line-height:1"
+   id="tspan5381-0">2.45</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan7576">6</tspan>x<tspan
+   style="font-weight:bold;font-size:2.82222px;line-height:1"
+   id="tspan5383-1">2</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.8308"
+         y="201.22704"
+         id="tspan14090-3-8-6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15-9"
+       transform="translate(91.254176,95.209398)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34724"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan34720">ZZ: Double sided metal </tspan><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan34722">shields.
+</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 140.19925,203.77801 h 29.80208"
+       id="path43561-2-4-0-8"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="149.99774"
+       y="189.34624"
+       id="text70425-1-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.99774"
+         y="189.34624"
+         id="tspan70411-49-97">MR62-ZZ</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.99774"
+         y="193.73302"
+         id="tspan70423-7-5" /></text>
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8"
+       width="6"
+       height="2.45"
+       x="141.33437"
+       y="198.71138" />
+    <ellipse
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-2-6"
+       cx="144.33411"
+       cy="196.15306"
+       rx="3"
+       ry="1.5" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8-2"
+       width="6"
+       height="2.45"
+       x="141.33411"
+       y="193.70306" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1"
+       cx="144.33411"
+       cy="188.14474"
+       r="3" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834"
+       cx="144.33411"
+       cy="188.14474"
+       r="2.25" />
+    <circle
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80"
+       cx="144.33411"
+       cy="188.14474"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-7"
+       cx="144.33411"
+       cy="188.14474"
+       r="1.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-2"
+       cx="144.33411"
+       cy="193.70306"
+       rx="3"
+       ry="1.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-5"
+       cx="144.33411"
+       cy="193.70306"
+       rx="2.25"
+       ry="1.125" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-7"
+       cx="144.33411"
+       cy="193.70306"
+       rx="1"
+       ry="0.5" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-7-5"
+       cx="144.33411"
+       cy="193.70306"
+       rx="1.5"
+       ry="0.75" />
+    <path
+       id="ellipse7055"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 144.33436,192.20327 a 3,1.5 0 0 0 -3.00033,1.49965 v 2.44997 a 3,1.5 0 0 0 3.00033,1.50017 3,1.5 0 0 0 2.99982,-1.50017 v -2.44997 a 3,1.5 0 0 0 -2.99982,-1.49965 z" />
+    <path
+       id="ellipse7570"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 146.58433,193.76556 c 0,-0.62132 -1.00735,-1.125 -2.24999,-1.125 -1.24264,0 -2.24999,0.50368 -2.24999,1.125"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="ellipse7573"
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       d="m 142.83418,193.76556 c -3.8e-4,0.41438 0.6714,0.75038 1.50016,0.75034 0.82856,-10e-5 1.50003,-0.33606 1.49965,-0.75034"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="ellipse9823"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 143.33389,193.70291 c -2.4e-4,0.27632 0.44782,0.50034 1.00045,0.50022 0.55243,-2e-5 1.00018,-0.224 0.99994,-0.50022"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 167.52905,152.22713 h 4.20949 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7-8-0" />
+    <path
+       id="rect67030-6-0-8-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 138.6179,151.69772 v 26.65005 h 33.64962 v -26.65005 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:0;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="151.05614"
+       y="164.81291"
+       id="text29255-4-2-8-0-7-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="151.05614"
+         y="164.81291"
+         id="tspan25149-4-0-3">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="151.05614"
+         y="167.63513"
+         id="tspan18178-3-00-0-5"><tspan
+   style="font-weight:bold;font-size:2.82222px;line-height:1"
+   id="tspan5381-0-1">2.45</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan12703">8</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan12701">5</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="151.05614"
+         y="169.242"
+         id="tspan14090-3-8-6-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15-9-3"
+       transform="translate(91.254181,65.913517)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34726">RS: Rubber Shielding.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 140.19926,174.48214 h 29.80207"
+       id="path43561-2-4-0-8-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="149.99774"
+       y="157.40453"
+       id="text70425-1-1-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.99774"
+         y="157.40453"
+         id="tspan70411-49-97-1">MR85-2RS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="149.99774"
+         y="161.79131"
+         id="tspan70423-7-5-7" /></text>
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8-4"
+       width="8"
+       height="2.45"
+       x="141.33411"
+       y="170.29883" />
+    <ellipse
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-20-7-1"
+       cx="145.33411"
+       cy="166.71135"
+       rx="4"
+       ry="2" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8-4-4"
+       width="8"
+       height="2.45"
+       x="141.33411"
+       y="164.26135" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-20"
+       cx="145.33411"
+       cy="157.20303"
+       r="4" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.131999;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-57"
+       cx="145.33411"
+       cy="157.20303"
+       r="3.5" />
+    <circle
+       style="fill:#969696;stroke:none;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000;fill-opacity:1"
+       id="path1719-8-0-7-3"
+       cx="145.39243"
+       cy="157.20303"
+       r="3" />
+    <circle
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-4"
+       cx="145.39243"
+       cy="157.20303"
+       r="2.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-20-7"
+       cx="145.33411"
+       cy="164.26135"
+       rx="4"
+       ry="2" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.131999;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-57-7"
+       cx="145.33411"
+       cy="164.26135"
+       rx="3.5"
+       ry="1.75" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-4-0"
+       cx="145.39243"
+       cy="164.26135"
+       rx="2.5"
+       ry="1.25" />
+    <path
+       id="path1719-8-0-7-3-0"
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       d="M 145.39268 162.76112 A 3 1.5 0 0 0 142.39234 164.26129 A 3 1.5 0 0 0 145.39268 165.76146 A 3 1.5 0 0 0 148.39249 164.26129 A 3 1.5 0 0 0 145.39268 162.76112 z M 145.39268 163.01124 A 2.5 1.25 0 0 1 147.89226 164.26129 A 2.5 1.25 0 0 1 145.39268 165.51134 A 2.5 1.25 0 0 1 142.89257 164.26129 A 2.5 1.25 0 0 1 145.39268 163.01124 z " />
+    <ellipse
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-2-6-5"
+       cx="87.604294"
+       cy="105.93158"
+       rx="3"
+       ry="1.5" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8-2-1"
+       width="6"
+       height="2.45"
+       x="84.604294"
+       y="103.48159" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-2-4"
+       cx="87.604294"
+       cy="103.48159"
+       rx="3"
+       ry="1.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-5-6"
+       cx="87.604294"
+       cy="103.48159"
+       rx="2.25"
+       ry="1.125" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-7-0"
+       cx="87.604294"
+       cy="103.48159"
+       rx="1"
+       ry="0.5" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-7-5-0"
+       cx="87.604294"
+       cy="103.48159"
+       rx="1.5"
+       ry="0.75" />
+    <path
+       id="ellipse7055-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 87.604525,101.98179 a 3,1.5 0 0 0 -3.00033,1.49965 v 2.44997 a 3,1.5 0 0 0 3.00033,1.50017 3,1.5 0 0 0 2.99982,-1.50017 v -2.44997 a 3,1.5 0 0 0 -2.99982,-1.49965 z" />
+    <path
+       id="ellipse7570-9"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 89.854515,103.54409 c 0,-0.62132 -1.00735,-1.125 -2.24999,-1.125 -1.24264,0 -2.24999,0.50368 -2.24999,1.125"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="ellipse7573-9"
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       d="m 86.104365,103.54409 c -3.8e-4,0.41438 0.6714,0.75038 1.50016,0.75034 0.82856,-1e-4 1.50003,-0.33606 1.49965,-0.75034"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="ellipse9823-5"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 86.604075,103.48144 c -2.4e-4,0.27632 0.44782,0.50034 1.00045,0.50022 0.55243,-2e-5 1.00018,-0.224 0.99994,-0.50022"
+       sodipodi:nodetypes="ccc" />
+    <ellipse
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-2-6-0"
+       cx="101.26124"
+       cy="126.85495"
+       rx="3"
+       ry="1.5" />
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8-2-8"
+       width="6"
+       height="2.45"
+       x="98.261238"
+       y="124.40495" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-2-9"
+       cx="101.26124"
+       cy="124.40495"
+       rx="3"
+       ry="1.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-5-66"
+       cx="101.26124"
+       cy="124.40495"
+       rx="2.25"
+       ry="1.125" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-7-2"
+       cx="101.26124"
+       cy="124.40495"
+       rx="1"
+       ry="0.5" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-7-5-08"
+       cx="101.26124"
+       cy="124.40495"
+       rx="1.5"
+       ry="0.75" />
+    <path
+       id="ellipse7055-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 101.26147,122.90515 a 3,1.5 0 0 0 -3.000333,1.49965 v 2.44997 a 3,1.5 0 0 0 3.000333,1.50017 3,1.5 0 0 0 2.99982,-1.50017 v -2.44997 a 3,1.5 0 0 0 -2.99982,-1.49965 z" />
+    <path
+       id="ellipse7570-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 103.51146,124.46745 c 0,-0.62132 -1.00735,-1.125 -2.24999,-1.125 -1.24264,0 -2.249993,0.50368 -2.249993,1.125"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="ellipse7573-97"
+       style="fill:none;stroke:#000000;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       d="m 99.761307,124.46745 c -3.8e-4,0.41438 0.671403,0.75038 1.500163,0.75034 0.82856,-10e-5 1.50003,-0.33606 1.49965,-0.75034"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="ellipse9823-6"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 100.26102,124.4048 c -2.4e-4,0.27632 0.44782,0.50034 1.00045,0.50022 0.55243,-2e-5 1.00018,-0.224 0.99994,-0.50022"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="ellipse13353"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000;stroke-opacity:1"
+       d="M 145.33428 162.26141 A 4 2 0 0 0 141.33401 164.26129 L 141.33401 166.71127 A 4 2 0 0 0 145.33428 168.71115 A 4 2 0 0 0 149.33404 166.71127 L 149.33404 164.26129 A 4 2 0 0 0 145.33428 162.26141 z " />
+    <path
+       id="ellipse13867"
+       style="fill:#323232;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 142.89257,164.26129 c -6e-5,0.6904 1.11932,1.25008 2.50011,1.25005 1.38059,-1.2e-4 2.49964,-0.55976 2.49958,-1.25005"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#1d24b1;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 206.47035,152.22713 h 4.20948 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7-8-0-7" />
+    <path
+       id="rect67030-6-0-8-4-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 177.55919,151.69772 v 26.65005 h 33.64962 v -26.65005 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:0;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="191.58492"
+       y="164.81291"
+       id="text29255-4-2-8-0-7-6-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="191.58492"
+         y="164.81291"
+         id="tspan25149-4-0-3-8">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="191.58492"
+         y="167.63513"
+         id="tspan18178-3-00-0-5-8"><tspan
+   style="font-weight:bold"
+   id="tspan26181">3</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan26183">9</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan12701-1">5</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="191.58492"
+         y="169.242"
+         id="tspan14090-3-8-6-8-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15-9-3-2"
+       transform="translate(130.19548,65.913515)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34728">RS: Rubber Shielding.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 179.14056,174.48214 h 29.80206"
+       id="path43561-2-4-0-8-0-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="190.52652"
+       y="157.40453"
+       id="text70425-1-1-6-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="190.52652"
+         y="157.40453"
+         id="tspan70411-49-97-1-9">MR95-2RS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="190.52652"
+         y="161.79131"
+         id="tspan70423-7-5-7-3" /></text>
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="path21809"
+       cx="184.27576"
+       cy="156.83188"
+       r="4.5" />
+    <circle
+       style="fill:#1d24b1;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="circle22922"
+       cx="184.27576"
+       cy="156.83188"
+       r="4" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="circle22924"
+       cx="184.27576"
+       cy="156.83188"
+       r="3" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="path21809-0"
+       cx="184.27576"
+       cy="156.83188"
+       r="2.5" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="path21809-9"
+       cx="184.27576"
+       cy="164.6402"
+       rx="4.5"
+       ry="2.25" />
+    <ellipse
+       style="fill:#1d24b1;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="circle22922-6"
+       cx="184.27576"
+       cy="164.6402"
+       rx="4"
+       ry="2" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="circle22924-2"
+       cx="184.27576"
+       cy="164.6402"
+       rx="3"
+       ry="1.5" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="path21809-0-7"
+       cx="184.27576"
+       cy="164.6402"
+       rx="2.5"
+       ry="1.25" />
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="rect23141"
+       width="9"
+       height="3"
+       x="179.77576"
+       y="170.94852" />
+    <path
+       id="path24721"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       d="m 184.27553,162.38995 a 4.5,2.25 0 0 0 -4.49998,2.24999 v 3.00034 a 4.5,2.25 0 0 0 4.49998,2.24999 4.5,2.25 0 0 0 4.49999,-2.24999 v -3.00034 a 4.5,2.25 0 0 0 -4.49999,-2.24999 z" />
+    <path
+       id="ellipse24726"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-opacity:1;stop-color:#000000"
+       d="m 181.77594,164.63994 c -7e-5,0.6903 1.11899,1.24995 2.49959,1.25006 1.3808,3e-5 2.50018,-0.55966 2.50011,-1.25006"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#1d24b1;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 206.47035,184.16885 h 4.20948 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7-8-0-7-4" />
+    <path
+       id="rect67030-6-0-8-4-0-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 177.55919,183.63944 v 26.65005 h 33.64962 v -26.65005 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:0;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="191.58492"
+       y="194.10884"
+       id="text29255-4-2-8-0-7-6-5-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="191.58492"
+         y="194.10884"
+         id="tspan25149-4-0-3-8-5">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="191.58492"
+         y="196.93106"
+         id="tspan18178-3-00-0-5-8-8"><tspan
+   style="font-weight:bold"
+   id="tspan29703">4</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan29701">10</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan29705">4</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="191.58492"
+         y="198.53793"
+         id="tspan14090-3-8-6-8-0-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15-9-3-2-5"
+       transform="translate(130.19548,97.855237)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34730">RS: Rubber Shielding.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 179.14056,206.42386 h 29.80206"
+       id="path43561-2-4-0-8-0-4-6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="189.4682"
+       y="189.87541"
+       id="text70425-1-1-6-4-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="189.4682"
+         y="189.87541"
+         id="tspan70411-49-97-1-9-8">MR104-2RS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="189.4682"
+         y="194.26219"
+         id="tspan70423-7-5-7-3-1" /></text>
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="path21809-1"
+       cx="183.71744"
+       cy="189.80284"
+       r="5" />
+    <circle
+       style="fill:#1d24b1;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="circle22922-8"
+       cx="183.71744"
+       cy="189.80284"
+       r="4.5" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="circle22924-3"
+       cx="183.71744"
+       cy="189.80284"
+       r="3" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="path21809-0-3"
+       cx="183.71744"
+       cy="189.80284"
+       r="2" />
+    <path
+       id="path21809-1-3-9"
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       d="m 178.7175,198.89041 v 3.99976 a 5,2.5 0 0 0 4.99969,2.5001 5,2.5 0 0 0 5.00021,-2.5001 v -3.99976 z" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="path21809-1-3"
+       cx="183.71744"
+       cy="198.89032"
+       rx="5"
+       ry="2.5" />
+    <ellipse
+       style="fill:#1d24b1;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="circle22922-8-3"
+       cx="183.71744"
+       cy="198.89032"
+       rx="4.5"
+       ry="2.25" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="circle22924-3-3"
+       cx="183.71744"
+       cy="198.89032"
+       rx="3"
+       ry="1.5" />
+    <path
+       id="path21809-0-3-3"
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-opacity:1;stop-color:#000000"
+       d="m 183.71719,197.89047 a 2,1 0 0 0 -1.99988,0.99994 2,1 0 0 0 1.99988,0.99994 2,1 0 0 0 2.0004,-0.99994 2,1 0 0 0 -2.0004,-0.99994 z" />
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       id="rect23141-9"
+       width="10"
+       height="4"
+       x="191.36324"
+       y="199.39032" />
+    <path
+       id="path31551"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-opacity:1;stop-color:#000000"
+       d="m 181.71731,198.89041 c 7e-5,0.55224 0.8954,0.99991 1.99988,0.99994 1.10468,1.1e-4 2.00033,-0.4476 2.0004,-0.99994"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path31553"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-opacity:1;stop-color:#000000"
+       d="m 183.71719,196.3903 a 5,2.5 0 0 0 -4.99969,2.50011 v 3.99976 a 5,2.5 0 0 0 4.99969,2.5001 5,2.5 0 0 0 5.00021,-2.5001 v -3.99976 a 5,2.5 0 0 0 -5.00021,-2.50011 z" />
+    <path
+       style="fill:#1d24b1;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 206.47034,216.11057 h 4.20949 v 4.2095 z"
+       id="path13761-3-061-7-1-9-6-7-6-1-1-1-6-7-8-0-1" />
+    <path
+       id="rect67030-6-0-8-4-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 177.55919,215.58116 v 26.65005 h 33.64962 v -26.65005 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:0;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="189.99742"
+       y="228.69637"
+       id="text29255-4-2-8-0-7-6-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="189.99742"
+         y="228.69637"
+         id="tspan25149-4-0-3-1">Ball Bearings</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="189.99742"
+         y="231.51859"
+         id="tspan18178-3-00-0-5-2"><tspan
+   style="font-weight:bold"
+   id="tspan33532">3</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan12703-4">8</tspan>x<tspan
+   style="font-weight:bold"
+   id="tspan33534">4</tspan>mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="189.99742"
+         y="233.12546"
+         id="tspan14090-3-8-6-8-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:Ste;-inkscape-font-specification:Ste;white-space:pre;inline-size:37.2;display:inline;stroke-width:0.0488273"
+       x="49.0877"
+       y="111.08964"
+       id="text24082-5-15-9-3-1"
+       transform="translate(130.19547,129.79696)"><tspan
+         x="49.0877"
+         y="111.08964"
+         id="tspan34732">RS: Rubber Shielding.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stop-color:#000000"
+       d="m 179.14055,238.36558 h 29.80207"
+       id="path43561-2-4-0-8-0-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.50942px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0658016"
+       x="188.93903"
+       y="221.28798"
+       id="text70425-1-1-6-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="188.93903"
+         y="221.28798"
+         id="tspan70411-49-97-1-2">MR84-2RS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0658016"
+         x="188.93903"
+         y="225.67476"
+         id="tspan70423-7-5-7-8" /></text>
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="rect1318-5-8-4-7"
+       width="8"
+       height="3"
+       x="180.27539"
+       y="234.18228" />
+    <path
+       id="rect1318-5-8-4-7-4"
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       d="m 180.27563,228.14494 v 2.99978 c 1.3e-4,1.10447 1.7908,1.99981 3.99975,1.99988 2.20895,-7e-5 3.99963,-0.8954 3.99976,-1.99988 v -2.99978 z"
+       sodipodi:nodetypes="cccccc" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-20-5-5"
+       cx="184.27539"
+       cy="221.08649"
+       r="4" />
+    <circle
+       style="fill:#1d24b1;fill-opacity:1;stroke:none;stroke-width:0.131999;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-57-4-5"
+       cx="184.27539"
+       cy="221.08649"
+       r="3.5" />
+    <circle
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-7-3-01-1"
+       cx="184.33371"
+       cy="221.08649"
+       r="2.5" />
+    <circle
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-4-8-5"
+       cx="184.33371"
+       cy="221.08649"
+       r="2" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-1-20-5-5-8"
+       cx="184.27539"
+       cy="228.14481"
+       rx="4"
+       ry="2" />
+    <ellipse
+       style="fill:#1d24b1;fill-opacity:1;stroke:none;stroke-width:0.131999;stroke-dasharray:none;stop-color:#000000"
+       id="circle6834-57-4-5-4"
+       cx="184.27539"
+       cy="228.14481"
+       rx="3.5"
+       ry="1.75" />
+    <ellipse
+       style="fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.132001;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-0-7-3-01-1-6"
+       cx="184.33371"
+       cy="228.14481"
+       rx="2.5"
+       ry="1.25" />
+    <ellipse
+       style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-dasharray:none;stop-color:#000000"
+       id="path1719-8-80-4-8-5-8"
+       cx="184.33371"
+       cy="228.14481"
+       rx="2"
+       ry="1" />
+    <path
+       id="ellipse34069"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 182.3339,228.14494 c 7e-5,0.55224 0.8954,0.99991 1.99988,0.99994 1.10447,-4e-5 1.9998,-0.4477 1.99987,-0.99994"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path34073"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.132;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 184.27538,226.14506 c -2.20895,7e-5 -3.99962,0.89541 -3.99975,1.99988 v 2.99978 c 1.3e-4,1.10447 1.7908,1.99981 3.99975,1.99988 2.20895,-7e-5 3.99963,-0.8954 3.99976,-1.99988 v -2.99978 c -1.3e-4,-1.10448 -1.79081,-1.99981 -3.99976,-1.99988 z"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

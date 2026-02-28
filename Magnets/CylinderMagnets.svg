@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:showpageshadow="2"
-     inkscape:zoom="0.81723485"
-     inkscape:cx="141.33024"
-     inkscape:cy="36.709154"
+     inkscape:zoom="2.3114892"
+     inkscape:cx="157.04162"
+     inkscape:cy="360.37374"
      inkscape:window-width="2560"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -468,6 +468,58 @@
        cx="177.42279"
        cy="42.235146"
        r="4" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.200632;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect61991-9-9-3-0-0-6-07-1-6-3-9-1"
+       width="30"
+       height="22.332609"
+       x="159.1254"
+       y="52.096924" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="159.79102"
+       y="56.297188"
+       id="text62049-11-9-4-9-8-45-15-8-0-17-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan62047-60-4-4-3-9-8-5-5-8-34-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="159.79102"
+         y="56.297188">10x3 Cylinder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="161.40744"
+       y="59.401314"
+       id="text62053-0-4-4-3-7-94-8-3-3-5-0-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="161.40744"
+         y="59.401314"
+         id="tspan62051-33-68-3-5-8-13-2-8-9-8-7-1">Rare Earth</tspan></text>
+    <rect
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="rect9529-1-5-3-3"
+       width="10"
+       height="3"
+       x="174.48111"
+       y="69.801094" />
+    <path
+       id="rect9529-1-5-3-3-2"
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       d="m 166.83943,63.354789 a 5,5 0 0 0 -3.99562,1.999878 h -1.00408 V 68.355 a 5,5 0 0 0 4.9997,4.999695 5,5 0 0 0 5.00021,-4.999695 v -3.000333 h -1.00046 a 5,5 0 0 0 -3.99975,-1.999878 z" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle1348-3"
+       cx="179.48111"
+       cy="63.980255"
+       r="5" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle1348-3-1"
+       cx="166.83948"
+       cy="65.354843"
+       r="5" />
     <circle
        style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
        id="circle2918"
@@ -480,5 +532,273 @@
        cx="80.281425"
        cy="36.538589"
        r="2" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.200632;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect61991-9-9-3-0-0-6-07-1-6-4"
+       width="30"
+       height="15"
+       x="61.187984"
+       y="44.764313" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="61.853573"
+       y="48.964577"
+       id="text62049-11-9-4-9-8-45-15-8-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan62047-60-4-4-3-9-8-5-5-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="61.853573"
+         y="48.964577">4x2 Cylinder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="63.469997"
+       y="52.068703"
+       id="text62053-0-4-4-3-7-94-8-3-3-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="63.469997"
+         y="52.068703"
+         id="tspan62051-33-68-3-5-8-13-2-8-9-4">Rare Earth</tspan></text>
+    <path
+       id="rect9529-1-9"
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stop-color:#000000"
+       d="m 78.281527,51.538456 v 2.000395 c 6.7e-5,1.104473 0.895405,1.999811 1.999878,1.999878 1.104473,-6.7e-5 1.999811,-0.895405 1.999878,-1.999878 v -2.000395 z m 5.291666,3.116606 V 56.655 h 3.999756 v -1.999938 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle9605-6-14"
+       cx="85.57309"
+       cy="51.538589"
+       r="2" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle3276-3"
+       cx="80.281425"
+       cy="51.538589"
+       r="2" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.200632;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect61991-9-9-3-0-0-6-07-1-6-4-1"
+       width="30"
+       height="15"
+       x="-5.0415936"
+       y="29.764315" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="-4.3760052"
+       y="33.964577"
+       id="text62049-11-9-4-9-8-45-15-8-0-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan62047-60-4-4-3-9-8-5-5-8-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="-4.3760052"
+         y="33.964577">2x2 Cylinder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="-2.7595801"
+       y="37.068703"
+       id="text62053-0-4-4-3-7-94-8-3-3-8-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="-2.7595801"
+         y="37.068703"
+         id="tspan62051-33-68-3-5-8-13-2-8-9-4-9">Rare Earth</tspan></text>
+    <path
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stop-color:#000000"
+       d="m 16.942989,38.682115 v 1.999938 h 2 v -1.999938 z"
+       id="path35467" />
+    <path
+       id="path35467-1"
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stop-color:#000000"
+       d="m 13.110312,37.655067 v 2.000395 a 1,1 0 0 0 0.999939,0.999939 1,1 0 0 0 0.999938,-0.999939 v -2.000395 z" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle9605-6-14-8"
+       cx="17.942989"
+       cy="36.565414"
+       r="1" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle3276-3-4"
+       cx="14.110181"
+       cy="37.655258"
+       r="1" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect846-4-6-8-3"
+       width="40"
+       height="20"
+       x="14.911656"
+       y="98.85569"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.34794px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="35.273022"
+       y="105.08572"
+       id="text8073-9-1-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan8071-62-9-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="35.273022"
+         y="105.08572">Small RE Magnets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.24151px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0607786"
+       x="34.911655"
+       y="108.85569"
+       id="text8160-9-1-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan8158-2-1-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="34.911655"
+         y="108.85569">Cylindrical </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="34.911655"
+         y="112.90758"
+         id="tspan37501">Rare Earth Magnets</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="34.911655"
+         y="116.95947"
+         id="tspan37503">5mm Dia</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect846-4-6-8-3-9"
+       width="40"
+       height="20"
+       x="55.96999"
+       y="98.85569"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="76.33136"
+       y="105.08571"
+       id="text8073-9-1-3-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan8071-62-9-3-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="76.33136"
+         y="105.08571">Smaller RE Magnets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.24151px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0607786"
+       x="75.969994"
+       y="108.85569"
+       id="text8160-9-1-4-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan8158-2-1-3-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="75.969994"
+         y="108.85569">Cylindrical </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="75.969994"
+         y="112.90758"
+         id="tspan37501-4">Rare Earth Magnets</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="75.969994"
+         y="116.95947"
+         id="tspan37503-9">&gt;5 mm Dia</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect846-4-6-8-3-9-4"
+       width="40"
+       height="20"
+       x="14.911656"
+       y="119.91402"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="35.273026"
+       y="126.14405"
+       id="text8073-9-1-3-0-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan8071-62-9-3-1-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="35.273026"
+         y="126.14405">Smallish RE Magnets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.24151px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.0607786"
+       x="34.911659"
+       y="129.914"
+       id="text8160-9-1-4-4-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan8158-2-1-3-1-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="34.911659"
+         y="129.914">Cylindrical </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="34.911659"
+         y="133.96588"
+         id="tspan37501-4-0">Rare Earth Magnets</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0607786"
+         x="34.911659"
+         y="138.01778"
+         id="tspan37503-9-5">&lt;5 mm Dia</tspan></text>
+    <path
+       id="path37312"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 10.74314,75.584199 c 0,8.5 5.00021,8.50025 5.00021,8.50025 h 19.35902 3.28145 19.35951 c 0,0 4.9997,-2.5e-4 4.9997,-8.50025 H 38.38382 35.10237 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="40.366066"
+       y="80.597847"
+       id="text37316"><tspan
+         sodipodi:role="line"
+         id="tspan37314"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="40.366066"
+         y="80.597847">Smaller RE Magnets</tspan></text>
+    <path
+       id="path37322"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 10.74314,86.167533 c 0,8.5 5.00021,8.50025 5.00021,8.50025 h 19.35902 3.28145 19.35951 c 0,0 4.9997,-2.5e-4 4.9997,-8.50025 H 38.38382 35.10237 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.081524"
+       x="41.096317"
+       y="91.639038"
+       id="text37326"><tspan
+         sodipodi:role="line"
+         id="tspan37324"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.081524"
+         x="41.096317"
+         y="91.639038">Smallish RE Magnets</tspan></text>
+    <path
+       id="path37328"
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       d="m 13.520531,89.574116 v 1.82473 c -9.4e-5,1.380822 1.790806,2.500214 3.999965,2.500155 2.209158,5.9e-5 4.000059,-1.119333 3.999964,-2.500155 v -1.82473 z"
+       sodipodi:nodetypes="cccccc" />
+    <ellipse
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle37330"
+       cx="17.520254"
+       cy="89.574051"
+       rx="3.9997947"
+       ry="2.5000482" />
+    <path
+       id="rect9529-1-3-8-0-0"
+       style="fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stop-color:#000000"
+       d="m 16.020346,78.55263 v 2.000462 c 1.93e-4,0.828154 0.671496,1.499457 1.49965,1.49965 0.828356,9.2e-5 1.499974,-0.671294 1.500167,-1.49965 V 78.55263 Z"
+       sodipodi:nodetypes="cccccc" />
+    <circle
+       style="fill:#dadada;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stop-color:#000000"
+       id="circle9605-6-3-7-1-9"
+       cx="17.520174"
+       cy="78.552841"
+       r="1.5" />
   </g>
 </svg>

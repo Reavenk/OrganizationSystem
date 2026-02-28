@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="SelfTapping(M).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:zoom="4.6229784"
+     inkscape:cx="134.11268"
+     inkscape:cy="62.297501"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect1790"
+       width="20"
+       height="20"
+       x="19.542583"
+       y="6.2686553" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="38.60001"
+       y="16.748035"
+       id="text3876"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="38.60001"
+         y="16.748035"
+         id="tspan6044">Phillips</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="20.208179"
+       y="10.468926"
+       id="text12504"><tspan
+         sodipodi:role="line"
+         id="tspan12502"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="20.208179"
+         y="10.468926">M2-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;stroke-width:0.264583"
+       x="25.671291"
+       y="16.748035"
+       id="text30477"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="25.671291"
+         y="16.748035"
+         id="tspan30475">Pan</tspan></text>
+    <path
+       style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 34.803923,6.79782 h 4.2095 v 4.2095 z"
+       id="path13761-4-8" />
+    <path
+       id="rect55791-9"
+       style="fill:#4b4b4b;stroke:none;stroke-width:0.132001;stop-color:#000000"
+       d="m 23.995082,21.660474 h 5.395537 l 0.499711,-0.499711 -0.500228,-0.500228 h -5.39502 z" />
+    <path
+       id="path55867"
+       style="fill:#4b4b4b;stroke:none;stroke-width:0.132;stop-color:#000000"
+       d="m 22.595141,22.110317 a 0.70001366,0.80000001 0 0 0 0.69997,0.799952 0.70001366,0.80000001 0 0 0 0.699971,-0.799952 v -1.899626 a 0.70001366,0.80000001 0 0 0 0,-5.17e-4 0.70001366,0.80000001 0 0 0 -0.699971,-0.799951 0.70001366,0.80000001 0 0 0 -0.69997,0.799951 0.70001366,0.80000001 0 0 0 0,5.17e-4 v 1.878955 a 0.70001366,0.80000001 0 0 0 0,0.02067 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.132;stop-color:#000000"
+       d="m 23.995157,22.160677 0.375,-2 0.375,2 0.375,-2 0.375,2 0.375,-2 0.375,2 0.375,-2 0.375,2 0.375,-2 0.375,2 0.375,-2 0.375,2 0.375,-1.727501 0.375,1.227298"
+       id="path56065" />
+    <circle
+       style="fill:#4b4b4b;fill-opacity:1;stroke:none;stroke-width:0.132;stop-color:#000000"
+       id="path56430"
+       cx="33.942436"
+       cy="21.160505"
+       r="1.75" />
+    <path
+       id="rect56432"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.131999;stroke-opacity:1;stop-color:#000000"
+       d="M 33.692,19.91071 V 20.911 H 32.692638 V 21.41 H 33.692 v 1.000298 h 0.5 V 21.41 h 1.000227 V 20.911 H 34.192 v -1.00029 z"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Ste;-inkscape-font-specification:Ste;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="20.766272"
+       y="13.573037"
+       id="text62449"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="20.766272"
+         y="13.573037"
+         id="tspan62447">Self Tapping</tspan></text>
+  </g>
+</svg>
